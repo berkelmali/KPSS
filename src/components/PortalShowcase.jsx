@@ -22,9 +22,9 @@ export default function PortalShowcase({
 
         {selectedSource && (
           <button 
-            className="filter-pill-btn active"
+            className="btn-secondary"
             onClick={() => setSelectedSource(null)}
-            style={{ fontSize: '0.775rem' }}
+            style={{ fontSize: '0.785rem', padding: '0.35rem 0.75rem' }}
           >
             Filtreyi Temizle (Tüm Kaynaklar)
           </button>
@@ -56,16 +56,17 @@ export default function PortalShowcase({
 
                 <p className="portal-desc">{portal.description}</p>
                 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', marginBottom: '0.75rem' }}>
+                  <span className="live-dot-mini"></span>
                   <span style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--text-main)' }}>
-                    🟢 {count} Aktif İlan
+                    {count} Aktif İlan
                   </span>
                 </div>
               </div>
 
               <div className="portal-actions">
                 <button
-                  className={`portal-filter-toggle ${isSelected ? 'badge-primary' : ''}`}
+                  className={`portal-filter-toggle ${isSelected ? 'badge-navy' : ''}`}
                   onClick={() => setSelectedSource(isSelected ? null : portal.id)}
                   title="Sadece bu portaldan gelen ilanları göster"
                 >

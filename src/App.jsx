@@ -464,7 +464,7 @@ export default function App() {
                   className={`quick-filter-pill ${quickFilter === 'all' && !isLiveOnlyFilter && educationTier === 'all' ? 'active' : ''}`}
                   onClick={() => { setQuickFilter('all'); setEducationTier('all'); setIsLiveOnlyFilter(false); }}
                 >
-                  <span>🌟 Tümü</span>
+                  <span>Tüm İlanlar</span>
                   <span className="quick-filter-count">{allPostings.length}</span>
                 </button>
 
@@ -473,7 +473,7 @@ export default function App() {
                   onClick={() => { setEducationTier(educationTier === 'university' ? 'all' : 'university'); setQuickFilter('all'); }}
                 >
                   <GraduationCap size={13} />
-                  <span>🎓 Üniversite KPSS</span>
+                  <span>Üniversite (Lisans/Önlisans)</span>
                   <span className="quick-filter-count">{universityCount}</span>
                 </button>
 
@@ -482,7 +482,7 @@ export default function App() {
                   onClick={() => { setEducationTier(educationTier === 'lise' ? 'all' : 'lise'); setQuickFilter('all'); }}
                 >
                   <BookOpen size={13} />
-                  <span>🎒 Lise KPSS</span>
+                  <span>Ortaöğretim (Lise)</span>
                   <span className="quick-filter-count">{liseCount}</span>
                 </button>
 
@@ -492,7 +492,7 @@ export default function App() {
                 >
                   <Zap size={13} />
                   <span>Canlı Resmi İlanlar</span>
-                  <span className="quick-filter-count">{liveData?.totalCount || 112}</span>
+                  <span className="quick-filter-count">{liveData?.totalCount || 181}</span>
                 </button>
 
                 <button 
@@ -500,7 +500,7 @@ export default function App() {
                   onClick={() => { setQuickFilter('urgent'); setIsLiveOnlyFilter(false); }}
                 >
                   <Clock size={13} />
-                  <span>⏳ Son 5 Gün</span>
+                  <span>Son 5 Gün (Yaklaşan)</span>
                 </button>
 
                 <button 
@@ -516,16 +516,16 @@ export default function App() {
               <div className="postings-header">
                 <div className="postings-count-title">
                   <span>
-                    {educationTier === 'university' ? '🎓 Üniversite KPSS Alımları' : educationTier === 'lise' ? '🎒 Lise KPSS Alımları' : 'Aktif Alımlar'}
+                    {educationTier === 'university' ? 'Üniversite KPSS Alımları' : educationTier === 'lise' ? 'Ortaöğretim (Lise) KPSS Alımları' : 'Aktif Resmi Alımlar'}
                   </span>
-                  <span className="badge badge-primary">{filteredPostings.length} İlan</span>
+                  <span className="badge badge-navy">{filteredPostings.length} İlan</span>
                   {educationTier !== 'all' && (
                     <span className="badge badge-subtle">
                       {educationTier === 'university' ? 'Üniversite Filtreli' : 'Lise Filtreli'}
                     </span>
                   )}
                   {(isLiveOnlyFilter || quickFilter === 'live') && (
-                    <span className="badge badge-live-pulse">
+                    <span className="badge badge-subtle">
                       <span className="live-dot-mini"></span>
                       Canlı İlanlar Filtreli
                     </span>

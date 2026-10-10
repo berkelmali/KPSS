@@ -22,7 +22,7 @@ export const PORTAL_SOURCES = [
     features: ['Kılavuz Detayları & Yorumlar', 'Önceki Yıl Taban Puanları', 'Hızlı Bildirimler']
   },
   {
-    id: 'sbb-kamuilan',
+    id: 'kamuilan-sbb',
     name: 'SBB Kamu İlan Portalı',
     shortName: 'SBB Kamu İlan',
     badge: 'Bakanlık Onaylı',

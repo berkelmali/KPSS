@@ -80,7 +80,9 @@ export default function LiveStreamBanner({
           <div className="live-sources-grid">
             <div className="live-source-card">
               <div className="source-card-header">
-                <span className="source-icon">🏛️</span>
+                <div className="source-icon-wrap">
+                  <Building2 size={16} />
+                </div>
                 <div>
                   <strong>T.C. Cumhurbaşkanlığı SBB</strong>
                   <div className="source-sub">kamuilan.sbb.gov.tr</div>
@@ -88,7 +90,7 @@ export default function LiveStreamBanner({
               </div>
               <div className="source-status-badge online">
                 <CheckCircle size={13} />
-                <span>ONLINE 🟢 ({liveMeta?.sources?.sbb?.count || 26} İlan)</span>
+                <span>AKTİF ({liveMeta?.sources?.sbb?.count || 26} İlan)</span>
               </div>
               <a 
                 href="https://kamuilan.sbb.gov.tr/" 
@@ -103,7 +105,9 @@ export default function LiveStreamBanner({
 
             <div className="live-source-card">
               <div className="source-card-header">
-                <span className="source-icon">📰</span>
+                <div className="source-icon-wrap">
+                  <Globe size={16} />
+                </div>
                 <div>
                   <strong>Memurlar.net KPSS İlanları</strong>
                   <div className="source-sub">ilan.memurlar.net</div>
@@ -111,7 +115,7 @@ export default function LiveStreamBanner({
               </div>
               <div className="source-status-badge online">
                 <CheckCircle size={13} />
-                <span>ONLINE 🟢 ({liveMeta?.sources?.memurlar?.count || 46} İlan)</span>
+                <span>AKTİF ({liveMeta?.sources?.memurlar?.count || 91} İlan)</span>
               </div>
               <a 
                 href="https://ilan.memurlar.net/" 
@@ -126,15 +130,17 @@ export default function LiveStreamBanner({
 
             <div className="live-source-card">
               <div className="source-card-header">
-                <span className="source-icon">📜</span>
+                <div className="source-icon-wrap">
+                  <Server size={16} />
+                </div>
                 <div>
-                  <strong>T.C. Resmi Gazete (Bugün)</strong>
+                  <strong>T.C. Resmi Gazete (Son 4 Sayı)</strong>
                   <div className="source-sub">resmigazete.gov.tr</div>
                 </div>
               </div>
               <div className="source-status-badge online">
                 <CheckCircle size={13} />
-                <span>ONLINE 🟢 ({liveMeta?.sources?.resmiGazete?.count || 15} İlan)</span>
+                <span>AKTİF ({liveMeta?.sources?.resmiGazete?.count || 64} İlan)</span>
               </div>
               <a 
                 href="https://www.resmigazete.gov.tr" 
@@ -149,7 +155,9 @@ export default function LiveStreamBanner({
 
             <div className="live-source-card">
               <div className="source-card-header">
-                <span className="source-icon">💼</span>
+                <div className="source-icon-wrap">
+                  <ShieldCheck size={16} />
+                </div>
                 <div>
                   <strong>Kariyer Kapısı (CBİKO)</strong>
                   <div className="source-sub">kariyerkapisi.gov.tr/isealim</div>
@@ -157,7 +165,7 @@ export default function LiveStreamBanner({
               </div>
               <div className="source-status-badge synced">
                 <CheckCircle size={13} />
-                <span>SENKRONİZE 🟢 (24 İlan)</span>
+                <span>SENKRONİZE ({liveMeta?.sources?.kariyerKapisi?.count || 24} İlan)</span>
               </div>
               <a 
                 href="https://kariyerkapisi.gov.tr/isealim" 

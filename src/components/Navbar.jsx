@@ -1,6 +1,6 @@
 import React from 'react';
 import { 
-  Compass, 
+  Landmark, 
   Briefcase, 
   Target, 
   Bookmark, 
@@ -24,7 +24,7 @@ export default function Navbar({
         {/* Brand */}
         <div className="brand-logo" onClick={() => setActiveTab('postings')} style={{ cursor: 'pointer' }} role="button" tabIndex={0}>
           <div className="brand-icon">
-            <Compass size={22} strokeWidth={2.2} />
+            <Landmark size={20} strokeWidth={2.2} />
           </div>
           <div className="brand-text-col">
             <div className="brand-title-row">

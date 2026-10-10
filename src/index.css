@@ -1,8 +1,9 @@
-/* Modern Human-Crafted Design System - KamuAsistan T.C. Kamu İlan & KPSS Tercih Portalı */
+/* Modern Institutional Design System - Kamu KPSS Canlı İlan & Tercih Portalı */
 :root {
   --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, Menlo, Monaco, monospace;
   
-  /* Light Theme - Clean Institutional Slate & Maritime Blue */
+  /* Light Theme - Clean Warm-Neutral Editorial Canvas */
   --bg-main: #f8fafc;
   --bg-surface: #ffffff;
   --bg-surface-elevated: #ffffff;
@@ -11,84 +12,93 @@
   
   --border-subtle: #e2e8f0;
   --border-strong: #cbd5e1;
-  --border-focus: #3b82f6;
+  --border-focus: #0f172a;
   
   --text-main: #0f172a;
   --text-muted: #475569;
   --text-subtle: #64748b;
   --text-inverse: #ffffff;
   
-  /* Authority / Turkish Public Sector Palette */
-  --primary: #1d4ed8;
+  /* Slate Black / Precision Monochrome Primary */
+  --btn-primary-bg: #0f172a;
+  --btn-primary-text: #ffffff;
+  --btn-primary-hover: #1e293b;
+  --btn-primary-border: #0f172a;
+
+  /* Institutional Blue for links & selected state */
+  --primary: #1e3a8a;
   --primary-hover: #1e40af;
   --primary-light: #eff6ff;
   --primary-subtle: #dbeafe;
   --primary-border: #bfdbfe;
-  --primary-glow: rgba(29, 78, 216, 0.12);
+  --primary-glow: rgba(30, 58, 138, 0.08);
   
-  --accent-red: #dc2626;
-  --accent-red-hover: #b91c1c;
+  /* Official Turkish Red (State Authority) */
+  --accent-red: #b91c1c;
+  --accent-red-hover: #991b1b;
   --accent-red-light: #fef2f2;
-  --accent-red-border: #fecaca;
+  --accent-red-border: #fee2e2;
   
-  --success: #059669;
+  --success: #047857;
   --success-light: #ecfdf5;
-  --success-border: #a7f3d0;
+  --success-border: #d1fae5;
   
-  --warning: #d97706;
+  --warning: #b45309;
   --warning-light: #fffbeb;
-  --warning-border: #fde68a;
+  --warning-border: #fef3c7;
   
-  --danger: #dc2626;
+  --danger: #b91c1c;
   --danger-light: #fef2f2;
-  --danger-border: #fecaca;
-  
-  --purple: #6d28d9;
-  --purple-light: #f5f3ff;
-  --purple-border: #ddd6fe;
+  --danger-border: #fee2e2;
 
   --navy: #0f172a;
   --navy-light: #1e293b;
   
-  /* Natural Multi-layered Shadows */
+  /* Flat Crisp Architectural Shadows (No neon glows) */
   --shadow-xs: 0 1px 2px 0 rgba(15, 23, 42, 0.04);
-  --shadow-sm: 0 1px 3px 0 rgba(15, 23, 42, 0.06), 0 1px 2px -1px rgba(15, 23, 42, 0.04);
-  --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.07), 0 2px 4px -2px rgba(15, 23, 42, 0.04);
-  --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -4px rgba(15, 23, 42, 0.03);
-  --shadow-xl: 0 20px 25px -5px rgba(15, 23, 42, 0.09), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+  --shadow-sm: 0 1px 3px 0 rgba(15, 23, 42, 0.05), 0 1px 2px -1px rgba(15, 23, 42, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.06), 0 2px 4px -2px rgba(15, 23, 42, 0.04);
+  --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.07), 0 4px 6px -4px rgba(15, 23, 42, 0.03);
+  --shadow-xl: 0 20px 25px -5px rgba(15, 23, 42, 0.08);
 
+  /* Precise Architectural Radii - Strictly Eliminates AI Pills */
   --radius-xs: 4px;
   --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 14px;
-  --radius-xl: 20px;
-  --radius-full: 9999px;
+  --radius-md: 8px;
+  --radius-lg: 10px;
+  --radius-xl: 12px;
+  --radius-full: 6px; /* transforms legacy rounded-full pills into sleek 6px buttons */
   
-  --transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition: all 0.15s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 [data-theme="dark"] {
-  --bg-main: #090d16;
-  --bg-surface: #111827;
-  --bg-surface-elevated: #1e293b;
-  --bg-surface-subtle: #162032;
-  --bg-surface-active: #223049;
+  --bg-main: #0b0f17;
+  --bg-surface: #111726;
+  --bg-surface-elevated: #162032;
+  --bg-surface-subtle: #151d2e;
+  --bg-surface-active: #1e293b;
   
   --border-subtle: #1e293b;
   --border-strong: #334155;
-  --border-focus: #60a5fa;
+  --border-focus: #94a3b8;
   
   --text-main: #f8fafc;
   --text-muted: #94a3b8;
   --text-subtle: #64748b;
-  --text-inverse: #090d16;
+  --text-inverse: #0b0f17;
   
-  --primary: #3b82f6;
-  --primary-hover: #60a5fa;
-  --primary-light: rgba(59, 130, 246, 0.12);
-  --primary-subtle: rgba(59, 130, 246, 0.2);
-  --primary-border: rgba(59, 130, 246, 0.3);
-  --primary-glow: rgba(59, 130, 246, 0.2);
+  --btn-primary-bg: #f8fafc;
+  --btn-primary-text: #0b0f17;
+  --btn-primary-hover: #e2e8f0;
+  --btn-primary-border: #f8fafc;
+
+  --primary: #60a5fa;
+  --primary-hover: #93c5fd;
+  --primary-light: rgba(96, 165, 250, 0.12);
+  --primary-subtle: rgba(96, 165, 250, 0.18);
+  --primary-border: rgba(96, 165, 250, 0.28);
+  --primary-glow: rgba(96, 165, 250, 0.15);
   
   --accent-red: #ef4444;
   --accent-red-hover: #f87171;
@@ -106,11 +116,7 @@
   --danger: #ef4444;
   --danger-light: rgba(239, 68, 68, 0.12);
   --danger-border: rgba(239, 68, 68, 0.25);
-  
-  --purple: #8b5cf6;
-  --purple-light: rgba(139, 92, 246, 0.12);
-  --purple-border: rgba(139, 92, 246, 0.25);
-  
+
   --navy: #f8fafc;
   --navy-light: #e2e8f0;
   
@@ -135,7 +141,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  transition: background-color 0.25s ease, color 0.25s ease;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 /* Base Utility Classes */
@@ -167,18 +173,17 @@ a {
 .glass-panel {
   background: var(--bg-surface);
   border: 1px solid var(--border-subtle);
-  backdrop-filter: blur(12px);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
 }
 
-/* Badges - Refined, subtle borders, high legibility */
+/* Badges - Subtle, architectural, crisp */
 .badge {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  padding: 0.25rem 0.6rem;
-  border-radius: var(--radius-sm);
+  padding: 0.22rem 0.55rem;
+  border-radius: var(--radius-xs);
   font-size: 0.75rem;
   font-weight: 600;
   line-height: 1.2;
@@ -209,12 +214,6 @@ a {
   border: 1px solid var(--danger-border);
 }
 
-.badge-purple {
-  background: var(--purple-light);
-  color: var(--purple);
-  border: 1px solid var(--purple-border);
-}
-
 .badge-subtle {
   background: var(--bg-surface-subtle);
   color: var(--text-muted);
@@ -229,27 +228,16 @@ a {
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
 }
 ::-webkit-scrollbar-track {
   background: var(--bg-main);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--border-hover);
+  background: var(--border-strong);
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-subtle);
-}
-
-/* Pulse animation for urgency */
-@keyframes pulseGlow {
-  0% { transform: scale(1); opacity: 0.9; }
-  50% { transform: scale(1.04); opacity: 1; box-shadow: 0 0 15px rgba(220, 38, 38, 0.4); }
-  100% { transform: scale(1); opacity: 0.9; }
-}
-
-.pulse-urgent {
-  animation: pulseGlow 2s infinite ease-in-out;
 }

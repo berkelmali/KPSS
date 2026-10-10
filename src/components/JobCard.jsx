@@ -108,7 +108,9 @@ export default function JobCard({
                 onError={(e) => { e.target.style.display = 'none'; }} 
               />
             ) : (
-              <span className="job-logo-fallback">{job.logo || '🏛️'}</span>
+              <span className="job-logo-fallback">
+                <Building2 size={20} strokeWidth={1.8} />
+              </span>
             )}
           </div>
           <div className="job-title-col">
@@ -123,10 +125,10 @@ export default function JobCard({
 
         <div className="job-meta-badges">
           {job.tier === 'university' && (
-            <span className="badge badge-tier-uni">🎓 Üniversite</span>
+            <span className="badge badge-tier-uni">Üniversite (P3/P93)</span>
           )}
           {job.tier === 'lise' && (
-            <span className="badge badge-tier-lise">🎒 Lise (P94)</span>
+            <span className="badge badge-tier-lise">Ortaöğretim (P94)</span>
           )}
           {job.isLive && (
             <span className="badge badge-live-official">
@@ -214,7 +216,8 @@ export default function JobCard({
 
         {daysLeft <= 5 && (
           <span className="badge badge-danger badge-deadline-warning">
-            ⏳ Son {daysLeft > 0 ? `${daysLeft} Gün` : 'Saatler'}
+            <Clock size={12} />
+            Son {daysLeft > 0 ? `${daysLeft} Gün` : 'Saatler'}
           </span>
         )}
       </div>
