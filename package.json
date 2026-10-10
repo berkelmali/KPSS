@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "sync:live": "node scripts/syncLiveJobs.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },

@@ -54,14 +54,16 @@ export function analyzeJob(title, kurum) {
   }
 
   let quota = 1;
-  const numMatch = title.match(/(\d+)\s*(?:adet|kişi|personel|memur|işçi|uzman|icra|zabıt|astsubay|polis)/i);
+  // Strip out year patterns like "2024 yılı", "2025", "2026", "2027" to prevent mistaking year for quota
+  const cleanForQuota = title.replace(/\b202[0-9]\s*(?:yılı|yıl|senesi)?/gi, '');
+  const numMatch = cleanForQuota.match(/(\d+)\s*(?:adet|kişi|personel|memur|işçi|uzman|icra|zabıt|astsubay|polis|müfettiş)/i);
   if (numMatch) {
     quota = parseInt(numMatch[1], 10);
   } else {
-    const numFront = title.match(/^\s*(\d+)\s+/);
+    const numFront = cleanForQuota.match(/^\s*(\d+)\s+/);
     if (numFront) quota = parseInt(numFront[1], 10);
   }
-  if (quota > 5000) quota = 1;
+  if (quota > 5000 || quota < 1) quota = 1;
 
   let educationLevel = 'Lisans';
   let kpssScoreTypes = ['KPSS P3'];
@@ -314,13 +316,31 @@ async function fetchMemurlarCategory(url, catName, defaultTier) {
   }
 }
 
-// 3. Fetch Resmi Gazete Issue
-async function fetchResmiGazeteDay(fileName) {
+function getRecentRgDays(daysCount = 5) {
+  const days = [];
+  const now = new Date();
+  for (let i = 0; i < daysCount; i++) {
+    const d = new Date(now.getTime() - i * 24 * 60 * 60 * 1000);
+    const yyyy = d.getFullYear();
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    days.push({
+      fileName: `${yyyy}${mm}${dd}-4.htm`,
+      year: String(yyyy),
+      month: mm,
+      dateFormatted: `${yyyy}-${mm}-${dd}`,
+      fullUrl: `https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/${yyyy}/${mm}/${yyyy}${mm}${dd}-4.htm`
+    });
+  }
+  return days;
+}
+
+// 3. Fetch Resmi Gazete Issue (Dynamic Date)
+async function fetchResmiGazeteDay(rgDay) {
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 4000);
-    const url = `https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/${fileName}`;
-    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: controller.signal });
+    const res = await fetch(rgDay.fullUrl, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: controller.signal });
     clearTimeout(timeout);
     if (!res.ok) return [];
 
@@ -333,13 +353,13 @@ async function fetchResmiGazeteDay(fileName) {
     for (const m of links) {
       const text = m[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
       if (!text || text.length < 5) continue;
-      const pdfUrl = `https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/${m[1]}`;
+      const pdfUrl = `https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/${rgDay.year}/${rgDay.month}/${m[1]}`;
       const kurum = text.replace(/Rektörlüğünden:|Genel Müdürlüğünden:|Başkanlığından:/i, '').trim();
       const title = `${text} Personel ve Kadro Alımı`;
       const analysis = analyzeJob(title, kurum);
 
       items.push({
-        id: `rg-${fileName.replace('.htm', '')}-${c++}`,
+        id: `rg-${rgDay.fileName.replace('.htm', '')}-${c++}`,
         title: `${kurum} Personel Alım İlanı (Resmi Gazete)`,
         institution: kurum,
         institutionCode: 'RESMIGAZETE',
@@ -352,9 +372,9 @@ async function fetchResmiGazeteDay(fileName) {
         minScore: analysis.minScore,
         contractType: analysis.contractType,
         cities: analysis.cities,
-        publishDate: '2026-10-10',
-        deadline: '2026-10-25',
-        dateRangeDisplay: 'Resmi Gazete',
+        publishDate: rgDay.dateFormatted,
+        deadline: '2026-10-31',
+        dateRangeDisplay: 'Resmi Gazete Sayısı',
         sourceId: 'ilan-gov-tr',
         sourceName: 'T.C. Resmi Gazete',
         sourceUrl: pdfUrl,
@@ -404,7 +424,7 @@ export async function scrapeAllLiveJobs(forceRefresh = false) {
       { url: 'https://ilan.memurlar.net/kategori/engelli-ilanlari/?Expire=false', cat: 'İdari & Büro', tier: 'lise' }
     ];
 
-    const rgDays = ['20261010-4.htm', '20261009-4.htm', '20261008-4.htm', '20261007-4.htm'];
+    const rgDays = getRecentRgDays(5);
 
     const [sbb, memurlarLists, rgLists] = await Promise.all([
       fetchSbbJobs(),

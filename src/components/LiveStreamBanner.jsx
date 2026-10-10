@@ -9,7 +9,8 @@ import {
   Server, 
   ShieldCheck,
   ChevronDown,
-  ChevronUp
+  ChevronUp,
+  Building2
 } from 'lucide-react';
 
 export default function LiveStreamBanner({

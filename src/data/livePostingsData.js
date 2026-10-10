@@ -1,33 +1,33 @@
-// Auto-generated 100% REAL LIVE postings data from official portals
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-10T11:27:04.319Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-10-10T10:20:06.665Z",
-  "lastUpdatedFormatted": "10 Ekim 2026, 13:20 (Anlık Canlı Veri Akışı)",
-  "totalCount": 181,
-  "universityCount": 155,
-  "liseCount": 26,
+  "timestamp": "2026-10-10T11:27:04.299Z",
+  "lastUpdatedFormatted": "10 Ekim 2026 14:27 (Canlı Veri Akışı)",
+  "totalCount": 198,
+  "universityCount": 182,
+  "liseCount": 16,
   "sources": {
     "sbb": {
       "name": "T.C. SBB Kamu İlan Portalı",
       "count": 26,
-      "status": "ONLINE 🟢",
+      "status": "ONLINE",
       "url": "https://kamuilan.sbb.gov.tr/"
     },
     "memurlar": {
       "name": "Memurlar.net KPSS & Kamu (12 Kategori)",
       "count": 91,
-      "status": "ONLINE 🟢",
+      "status": "ONLINE",
       "url": "https://ilan.memurlar.net/"
     },
     "resmiGazete": {
       "name": "T.C. Resmi Gazete (Son 4 Sayı)",
-      "count": 64,
-      "status": "ONLINE 🟢",
+      "count": 81,
+      "status": "ONLINE",
       "url": "https://www.resmigazete.gov.tr/"
     },
     "kariyerKapisi": {
       "name": "Kariyer Kapısı (CBİKO)",
       "count": 24,
-      "status": "CONNECTED 🟢",
+      "status": "CONNECTED",
       "url": "https://kariyerkapisi.gov.tr/isealim"
     }
   },
@@ -58,8 +58,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=WBa0s%2bhNzo1Pqqa6huckuWP%2f%2fTKrabblnbQeOzCndy8ifgo2W6wOnIxJlc%2fHeEIosd4ocM%2fmF9mXwO66IYbreAl4uMSjdD%2bIw%2bNJeh9M2mVHwCkv%2bkUbOB7kc6jBTL2w",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=EBa88XtZ1nNvHNQugNLQIFCvSuy8MEfj4kYWvoF11w7xE2ZHQVF1VA%2ba4KpzGpAgutYPYdAqVTtfw68sHJ3DPQVP2%2bvAufYNuwugsFI4qWnsXUkipcP7IDxlXevpsFHW",
       "qualificationCodes": [
         "4001"
       ],
@@ -70,14 +69,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "SAVUNMA SANAYİİ BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "SAVUNMA SANAYİİ BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1001",
@@ -104,8 +102,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=hXXNFEYnlNTx%2bsDIYEu06H6DMfPx%2beDrqIprgf4%2bQ43v14HuaYBeVsbIkejOpfzGkxAakaDbm2auiaitRZUzgFbhZdldgHoYCK47h%2fXHzdkQGmSnW8xOyUuKhPkDWrxj",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=IcFxI8IA2WRuXEbZXt6VtLjq58h5Aa8HJnXHFMKECbdi3fMZP7GCqnvCGCPpTfk%2bJOivwdpJceavP%2fYJDWTUtyH%2bJtLVJDnZtsxVNg3MfrY5D%2fD%2bCHD62jo9AbMxVv6Q",
       "qualificationCodes": [
         "4001"
       ],
@@ -116,14 +113,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1002",
@@ -150,8 +146,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=4pFzioWt1ugcgufDHY3ugDP74%2fzqMFG2pGf6ocJD697rpJmeRzLdaZMJR7UlquTrTvTj78UuOhV3DuHieYbfOHxYY8eES3jGsxIXMz3jl1u%2f%2bEU%2fsk6Fa9UgiADmVwSS",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=Z%2fLW%2fwC%2ff6MJsMclRFGgEla4PW2dtB%2bxnRf%2fnB0MSJKZwcpLAZypseGzbp%2bYYH9%2fWsMqhO9CCrZkBVmpyWI%2birhjXivb1Z66dneEZozdbpTY62p9Z8OxrB6cNOOh2Ji5",
       "qualificationCodes": [
         "4001"
       ],
@@ -162,14 +157,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "TÜRK PATENT VE MARKA KURUMU tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "TÜRK PATENT VE MARKA KURUMU resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1003",
@@ -196,8 +190,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=pAlQ3teBp%2fErTeYHLDZQrKpiQzgUi1aT3W%2bgUOtd5gXMPkeNAcQY2J4%2bUZfOnVJVXKB4%2f6j7gOy7Xr%2f5Exp0p6Elxt%2b6pwH4htkcQ95gL7K82ySz0n3G04FLRwP6GsNh",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=p4NUKYHqpzDnkkeRog6tAzQtebnG8B5PLl62xusfOE%2f6AXkZew8WC5VFmCiIeJ8vUJcPhugu2ewt0bZvGQbrmQK6fz4Isz1hjqrzgZ26qf4f%2bn2i84NrVKX6ER4jQFNU",
       "qualificationCodes": [
         "4001"
       ],
@@ -208,14 +201,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "YARGITAY BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "YARGITAY BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1004",
@@ -242,8 +234,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=kox1SE7bqW4%2fuF66MB2C6LsGdKGmiysE%2b7%2b%2f1PCqZGkcv8MeaEIQRZdpOw%2bgDJeJVjaw0mCV0zfqCAoL4BlCXDGIflpgQQx033CNUR1sPrbBdM8OeN2lJ7YgFas4OKGA",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=XOl7EG691nybHvR8N9NMYeKxS89Vbaf7ES%2by83Roz7M71mC7zkH7bxpKRGYwJ9GNiYo3PcjFXOHJHHI9rDQEBN7Jv%2bIeRpM2axCwHgpE2ITs06OcfdnR%2b9sOrsRIvkV1",
       "qualificationCodes": [
         "4001"
       ],
@@ -254,14 +245,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ADALET BAKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ADALET BAKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1005",
@@ -287,8 +277,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=cHavzqBBlZMbhJjveeMkxhiMZcHUaU0MlELAn%2b7KEr%2fSnqZyRL6iz3ChSoosutOoQVplGxP4tOlrS2Jhesv01HaAxutW9Nn6oH2rTSmfjiuXcfRk%2bJRKZ8OOD6Qdhcog",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=F4Y1mZEl7v1%2fE5SB%2fAANW853Mwu5NzgLsCaMfFGxt0W5mL5rHL21K0SEP5RFcGJTgVnrSiXJBQiRDAcWdALoUju2hEtKDUxjDiVFyRYw1vh5uLp11UjtCSB%2bpje80qHW",
       "qualificationCodes": [
         "4001"
       ],
@@ -299,14 +288,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ANKARA ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ANKARA ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1006",
@@ -332,8 +320,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=wnEMlwIONMAx%2bZqaW4Thj8f%2fqVR5aEIPJ6lVeQel8sqTYRrgB2xQO4EIrwKW3p5dkE4kQk0qdRzPCNh%2bHrZX4BIUx2yJUVWVBwDSQAa4HRYJ0bMv7FsAgVNjHMTX0gr9",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=DRYXw6g3fKxs8IytbSxrPHhPU8o%2bao3%2bP48eGub9GbbvtT0D12sWt6O6aYSG5rHyOT7VYNSnywHttuBJXygkpZPqiA%2bVqwoZoWv6%2bz4bhXXgzQFytvH1QBr871R%2fI637",
       "qualificationCodes": [
         "4001"
       ],
@@ -344,14 +331,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BATMAN ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "BATMAN ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1007",
@@ -362,7 +348,7 @@ export const LIVE_POSTINGS_DATA = {
       "logoImage": null,
       "tier": "university",
       "category": "Emniyet & Askeri",
-      "quota": 2026,
+      "quota": 1,
       "educationLevel": "Ön Lisans & Lisans",
       "kpssScoreTypes": [
         "KPSS P3",
@@ -379,8 +365,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=cWADniz%2biHklrvAngq8wv2vNLzV0qjhGRi9Bqqag5VLF7VhSVD3N7miqniUM3YeS9vYwzSddfaOSy1ghi5B%2fNkMfhr5JXXBiDP2QPhsIsmqn0r0rxyh8U3E%2biQ60%2fSlq",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=7rTS0lVxsw%2fa7IpcN%2fkAvmhmOdFnLzjjJ1Em2N7nrPIj0A4gPK9Z1xAdYfrc6HtR5iQDgIpSGjhx0pad6tNvtk7A80vtpNElaFkimJHNan2NodCqzBoMCPEqDVY%2bWlch",
       "qualificationCodes": [
         "4001",
         "3001"
@@ -392,14 +377,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 60",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
-      "featured": true,
+      "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "MİLLİ SAVUNMA BAKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "MİLLİ SAVUNMA BAKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1008",
@@ -410,7 +394,7 @@ export const LIVE_POSTINGS_DATA = {
       "logoImage": null,
       "tier": "university",
       "category": "Emniyet & Askeri",
-      "quota": 2026,
+      "quota": 1,
       "educationLevel": "Ön Lisans & Lisans",
       "kpssScoreTypes": [
         "KPSS P3",
@@ -427,8 +411,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=%2fmME55Bdog7t3hRMcNscXxnRKOtCWkSt8zHXKvcPaM2Xo8idsuQ%2fKBQP0X2uczjD%2bCOvlrbmCRv8%2bu0Jj3sBvWFJHOPN%2fUEcVLsYFxnEZN%2fzwIgYCWQFYnYxyGlMF%2fi8",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=b7%2f4%2fjnuBZ4hZWbd3Bh8taGFbVUKFMvwC%2bjyZ3Q6Z%2f9CyCB7wzoaCx04oz83xHiJ2Uc9oN6GPRlY6q5iZnK6X94nP93hRr10kvhHpRcby%2bzedGRYm2FK5DZj7a0%2bX7Bh",
       "qualificationCodes": [
         "4001",
         "3001"
@@ -440,14 +423,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 60",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
-      "featured": true,
+      "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "MİLLİ SAVUNMA BAKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "MİLLİ SAVUNMA BAKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1009",
@@ -474,8 +456,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=Ybk6329ZRNEbAUvgPvLBZr4hr8eGmIHkEl8jOtxISlPN0vna5snbYaueQgXyZWX0CQjjvte%2fjeCck1cuVniKPWuJo6eFWrsx4kE6uIznDQuEWYZE4Dw%2fNAZtnYU8oI3c",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=ljXgmD7RqbTsI36rpat3ornZizTFHdofPTjnXf2sxAqmS9PEjJAZdssVfCvjMb%2fjY%2bDzGQlRZTU0AD8bI4uP9QP9%2bb8erajU8YegbVFDlwDc%2bbJjfmft5uJ05XGYIPQ2",
       "qualificationCodes": [
         "4001"
       ],
@@ -486,14 +467,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1010",
@@ -520,8 +500,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=X7OHBgq0NVg7d4b8bguI%2fI9T9KnShlV59GfRDKc2%2fgx%2bJrvc9pSy68FxNxrbIX3Sk4hgNTHHTpSd1te5gWBHrahp2nlirclKlxx%2b5TfXU7cAjJdA8SaUJn5MTr1PSDiE",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=I%2bEIU4qKWNLii2qCYuET65ee3tN5%2fLbUWJNrbMvEibCK6FOjj%2bWFTemzGZKpBxXLMyWsOu0DlnB3piUwvcU1g8JrOKlpZDx0aSLN37eukfi%2f%2fZ0cFnPg4MenL5WwRbKA",
       "qualificationCodes": [
         "4001"
       ],
@@ -532,14 +511,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ATATÜRK ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ATATÜRK ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1011",
@@ -565,8 +543,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=c3vA8pME9x55LLYuRxHSTIzcvQ2G23ovxHNldKd00yKnHpfJit79X16uoUyK0v5KqVg1vU44WE11F4447PMhPS4WxxZzdKRIOzm2CI1nP5S%2boe58iI6Lw4ZkSgN17E%2bW",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=7EF19EjWDKKIknWLIKRV5fIWwwS%2bjeaevhitL5LEHWKT5e7h579HZaP5n6BuGNrMWKIGwx4xWjb7AA0OE71mgk%2flBM5lZm9FMbGjYLV2zDthnCL4CU1DhzxJpp0l%2fWXR",
       "qualificationCodes": [
         "4001"
       ],
@@ -577,14 +554,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1012",
@@ -611,8 +587,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=S9xlFiibJQoeVwZyuMfm66hpIU%2buuzHXu4UnhImA9o%2bwvO0swnWW%2bUNgeCRnqCNjPcBvSdWL4Wjs5n4aiKASet7uzexhPuU3NUQ%2bEuaIlTvhvlpojn%2fotYLSL6V%2b0e7a",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=aA560Ui81N3LUXGXlywiJ3wQVegwl9%2f8yX0AXVlxI6RY0C1Hguuj4ceA2vfKALXwnXAhk9QgeITOacuxca0rfS8JbsefX03RI28%2bSr%2fHxt5hb6LFp3s%2bwftJifwkZFKL",
       "qualificationCodes": [
         "4001"
       ],
@@ -623,14 +598,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1013",
@@ -657,8 +631,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=v2tZmjpqoRekYI1hNi79TJPLzhinnkaQcXank3NP%2bWX7ovuBhmiigeHzCA3XhKqkY%2bmq2EgNGfhh39ejV699wRp1EShWtzTTBcqHYom8tSXtIUoNyT97bWbZcvpzNZZp",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=hWJLhmcr%2fGg0JW52RTnPu%2fIQ7vFGQzYYrMm5poqRD2AkN3upyS8Hustj6bNH5r1AAoN%2bRePwcvsr1fv7Go%2fDjFRcoDPNfb77J%2fIaDCOMtDzdMGFDPyWrC1eyy4Rb0Dtn",
       "qualificationCodes": [
         "4001"
       ],
@@ -669,14 +642,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1014",
@@ -703,8 +675,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=vJvQzC6v2cZO%2bmSOGosKFIwn6an9wTXuaGBMb6e%2fB816vP80QeMLBNkF7kLHd4d8CoAx9kXumW0oJsbfbNCh6dzV3b2Zi10dKkCeRGgBjmZ7wEmIwUL397QIfbQN2nbG",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=xtoz%2btCfLi9D0g3izTLE%2bGtN1lCIb2XmtK76AlGf4YTChXWMAI7TbAxsxtjgSQ00Dkvy8VRsmoZQIkSFB1B7w5myPzFdbOBWOaYrO%2fZ3Xv%2fCzkatNXLtN2HVrEikK7DX",
       "qualificationCodes": [
         "4001"
       ],
@@ -715,14 +686,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İZMİR BAKIRÇAY ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "İZMİR BAKIRÇAY ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1015",
@@ -748,8 +718,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=8O2k1743kmkt7KBvcg52H8LWCUZZCQNz52RmzxyyKdwlJv6rVVCWjEhAgcQsa%2fgooOBgqODwa6gcZ38lXr2HbCaW4G%2fdeFF7DGe4i2M51OUFKD9f7YqPeBnzAuQROCjJ",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=S4uPAgZQLFG0hGfRHPpppR4Qw5ZCPkF%2f1O4QGjSkKaBaWIx%2bD%2bz2aMXr9afdsXAPqCFyJTo8Pq6ZUuI1nsK2lPkRTus3FaLakesXPp7gsnOM%2fF7%2bWniMhzyQzZzT484j",
       "qualificationCodes": [
         "4001"
       ],
@@ -760,14 +729,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1016",
@@ -793,8 +761,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=DgZ3ltBoL962LWvM8uwHFObz52n%2bdMUSVO5P7eLDRAIaSC%2b2oyU0r29yl%2bDbhRvXQxWEc8EjMyL0tvZl90tnmlPgsV8CnMqL0VsKZ5AgXGJwlmXA1sroaDfFTSa5Tgk9",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=o9GeHPy8Ei7omfX3BixZWMKbJUJZK2Xkm3cguGFd0BBYDrRieDNWJKKoS0f%2f2HLX3yXZYJRkA65asPDR2gpEERU7e%2bU2%2f1Wozyy6xC2wpUMI%2faJG9bzph4pqMxtYlP5U",
       "qualificationCodes": [
         "4001"
       ],
@@ -805,14 +772,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "DÜZCE ÜNİVERSİTESİ tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "DÜZCE ÜNİVERSİTESİ resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1017",
@@ -840,8 +806,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=1dm9QlfcjoDo5sHNj4tLpfFnb3dFbfMHq5KvoshlMZ%2f6iSv%2bL29H5Wc%2bvd%2fYb4pUclEq1Hfff2FAkIlot0zpr0ZbbfEyv5ViuMwntW5a14jPGPGP2Xmep94RowpkQHTc",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=QdF%2bRBOKuG%2bkKpK%2fCDhL507MoT%2bAVOJVEoTYXLhWMEfMo1doLl%2f5cIw1ESuX2HBSmVXg%2bDJ6Uxi1uWfGH4PeWkvX2ifEv9XA%2bW6YtSSplqwDYU28E4gquaJHSMqrEap6",
       "qualificationCodes": [
         "4001",
         "3001"
@@ -853,14 +818,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 60",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "JANDARMA GENEL KOMUTANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "JANDARMA GENEL KOMUTANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1018",
@@ -888,8 +852,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=6NnZMy7PNg1XyV9b1SHzgYQ9hiGS7kS9iATVjtQDqltvrQ83pmkV6yqWd4soJa9iG49QPOMbi%2bX7UMI2ZV%2fnGG28451OlTseBg6wAlczSm0ktNSsJIXY96CF1hZ9qux0",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=EsgJHD%2fO5jskgpI8ksrMGgTziXWqlPweXMusbWSeEb10nh%2fmxbktne9lNdKlbxd%2bWDAlJFrD6OqMWWr33s6BJzB%2fZlucRMpKbF4zmWkWxlWp3mjSqe%2byMJUnimDtjfm6",
       "qualificationCodes": [
         "4001"
       ],
@@ -900,14 +863,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "DOĞU MARMARA KALKINMA AJANSI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "DOĞU MARMARA KALKINMA AJANSI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1019",
@@ -933,8 +895,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=iuQShK12IN7VJyTj9I5Vd3BcTHQRGl8Odnaa2xTS6UxYFk%2fbZioIUdZG%2fHFqe2XGhh1Smh4dRUex3ex1KODWU7x0WJ08uwsvP2XEnWHC%2bvTpIrvcEJ5e%2feIoxq0ATjN7",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=6OaiwK4y8pSoXb%2fgxfktCbL7FtRHyD%2foRLKO7oA51OMHMp4sKns0ros94bUNMfTJjKXL7iioorsSGOf7qhoidsb%2flsnt0NoW%2fk%2bkVQWSBl4tYGZfhMLqIfXWwekSBSre",
       "qualificationCodes": [
         "4001"
       ],
@@ -945,14 +906,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İSTANBUL ELEKTRİK TRAMVAY VE TÜNEL İŞLETMELERİ GENEL MÜDÜRLÜĞÜ (İETT) tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "İSTANBUL ELEKTRİK TRAMVAY VE TÜNEL İŞLETMELERİ GENEL MÜDÜRLÜĞÜ (İETT) resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1020",
@@ -980,8 +940,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=8%2b3WiBJFzoqM0I7x4YMkPbwyd5VOpyMPLzQ1S0kaiZNYg87Pt3W5wmqluZ22ls8gQq328Yy75JYX8dor43dq%2brP5i4a4umNMeDAO9BDu6fwg7PbpRHY5D8vp266Gq0mB",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=Ob5Cw9%2bdvO68oMKmgok9PbE3PzWFiFLEUiDfngYFnWjGIPWSbYVBw5j2JLLVQhgjFMMLK0I1PU2IYxlg63GwyEA8V%2bZARxwU4MzBdvP%2bmiqQY4M07w5i6x96%2fgAJgtLk",
       "qualificationCodes": [
         "4001"
       ],
@@ -992,14 +951,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İLETİŞİM BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "İLETİŞİM BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1021",
@@ -1027,8 +985,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=Dd8HihfES7uJil9T0gKqz9IK8ywl2kBTy2jeYfuNF8cKc1gm%2fgNnPZ%2bGLv%2b81Zjnsqs%2f%2bkWlEkIU7zIOCuHyrkmtvt6vDxBHDCuiwYEBC7ryZ26QoBT4PAhF2wrU5oNy",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=4WTKm1gaq0EdA0Aw7wIAhDz1qG8w6oe8f6EeKJLTHAyByWrP7KMZv%2bMWdCb5MopbVNLsB1U6UA9eabwxenqBQv%2fzfjknisdAIXa83uYgigpKgmM2jqAeFX9KvDzljcBQ",
       "qualificationCodes": [
         "4001"
       ],
@@ -1039,14 +996,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "SERMAYE PİYASASI KURULU BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "SERMAYE PİYASASI KURULU BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1022",
@@ -1073,8 +1029,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=ni2GHact0qFXXFoXJMnN%2b7Z1LDugEA4ngU%2fG63BA6O7KrXksYXA8H3kAF7Qzb46oq2c363zq9m7JV0RNVW3E9En%2bRJu14T7rhRskYHs5PU%2fHcz7g5m%2bYPZzWqUHH5uTO",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=Kv%2bfEIgci2mrAgEiLfgKdBQ%2bYn2e5eqvLi8N9WDfpmrq1DsWADPpcTd5aBBWkVCFc%2fdShEBw6X2FlPlEHKnP7Gg3U%2fllGjw1ddr4V6EPXWEJh6LOh8FTuC340sX1BXVI",
       "qualificationCodes": [
         "4001"
       ],
@@ -1085,14 +1040,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 70",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1023",
@@ -1120,8 +1074,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=h%2bnEOG21CiDG%2fu5FYQie9QclzUKYvdW%2fEMyY8a87lBwTgSbcZDQ5wmmh14qVUphZJ7TW6SGpJtjp4WB2ZK0%2fhqN0Cl7xSj5oTT6I3%2fYlxROr%2fuRiTN2weWpFDJGf0TgD",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=S4kWm4LdqeO0hUAPRj%2fGRc2oxoAb5IXwMo5hCnFJ0DNmAjA%2bcF%2bDBoUit%2bqWAYJDE8aVaU9CljyQyKtmso5OWkAd8CLIlc8UVDhgdBmPDNvHXRAo8S2JWk3ic%2fnFr8eo",
       "qualificationCodes": [
         "4001"
       ],
@@ -1132,14 +1085,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1024",
@@ -1167,8 +1119,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=5GtFCAfAI1DTyw%2bD%2fkIX%2f1ABM8FKbmlLK7pC%2bLmHShmt3BW3wQc8Ni%2bdMKIPw3u%2b9RXLYmfgWkcmVMPy4EzY9BgtRh8oTO8IMXsTJXijMQNlDqIpofk%2fLCXMgbVGTbrv",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=ANC%2f3bj%2ftk7uvwpCgECgMKSCQAhQCo3RPo6mx4BHnTax0zNKj1aeIYbpdrBSXzw%2bc4DKCvwh%2fw%2fCRnhAJh11AbwZJ1xF2ZSlGyXNqXwFPkxAVYR2esnSqIs%2fT1EjIfdB",
       "qualificationCodes": [
         "4001"
       ],
@@ -1179,14 +1130,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BATI AKDENİZ KALKINMA AJANSI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "BATI AKDENİZ KALKINMA AJANSI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "sbb-1025",
@@ -1214,8 +1164,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "12 Ekim - 26 Ekim",
       "sourceId": "kamuilan-sbb",
       "sourceName": "T.C. SBB Kamu İlan",
-      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=410CyiZULpFayJyhp8vOzXiRNOSwfxux5zNLhNKrFbcEDetmVDQlUIn3zouWbYsbobRfnyI9x1ZnnAE7pNobVW5cPaxopQnAxe71qmogc%2fhco0OcjMxQ3OFhI17%2bsLZy",
-      "alternateUrl": "https://kamuilan.sbb.gov.tr/",
+      "sourceUrl": "https://kamuilan.sbb.gov.tr/ilanDetay.aspx?kod=RvgDv1rEFrCWmXYNA%2bFyUpc28UfeRjRIftVGuATiZpxQLs7RPvNTZOa7a9GoGbpqFNkLkQOF%2bxEetm%2bXOy%2fYAjFkGH%2bj46t9wfOqq%2f8x2xoQHxcicW5VCyFpN%2bYxYiPh",
       "qualificationCodes": [
         "4001"
       ],
@@ -1226,14 +1175,13 @@ export const LIVE_POSTINGS_DATA = {
       "specialConditions": [
         "657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları taşımak",
         "Asgari KPSS taban puanı: 75",
-        "Belirtilen tarihe kadar e-Devlet / SBB Kamu İşe Alım Sistemi üzerinden başvuruyu tamamlamak"
+        "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden süresi içerisinde başvurmak"
       ],
-      "applicationMethod": "Cumhurbaşkanlığı SBB Kamu İlan Portalı üzerinden resmi başvuru",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "GELİR İDARESİ BAŞKANLIĞI tarafından yayımlanan resmi kamu personel alımı ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim. Detaylar ve başvuru formu için resmi SBB bağlantısını inceleyiniz."
+      "description": "GELİR İDARESİ BAŞKANLIĞI resmi kamu personel alım ilanıdır. Başvuru süresi: 12 Ekim - 26 Ekim."
     },
     {
       "id": "memurlar-86682",
@@ -1259,7 +1207,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86682/ardahan-hanak-belediyesi-2-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1271,12 +1218,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ardahan Hanak Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ardahan Hanak Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86679",
@@ -1302,7 +1248,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86679/kayseri-sariz-belediyesi-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1314,12 +1259,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Kayseri Sarız Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Kayseri Sarız Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86678",
@@ -1345,7 +1289,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86678/osmaniye-yarbasi-personel-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1357,12 +1300,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Osmaniye Yarbaşı personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Osmaniye Yarbaşı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86677",
@@ -1388,7 +1330,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86677/canakkale-lapseki-hizmet-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1400,12 +1341,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çanakkale Lapseki personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Çanakkale Lapseki personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86676",
@@ -1431,7 +1371,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86676/istanbul-bilisim-akilli-kent-teknolojileri-10-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4531",
         "4539",
@@ -1445,12 +1384,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İstanbul Bilişim personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "İstanbul Bilişim personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86668",
@@ -1477,7 +1415,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86668/bandirma-onyedi-eylul-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1489,12 +1426,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Bandırma Onyedi Eylül Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Bandırma Onyedi Eylül Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86666",
@@ -1520,7 +1456,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86666/giresun-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1532,12 +1467,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Giresun Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Giresun Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86653",
@@ -1563,7 +1497,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86653/siirt-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1575,12 +1508,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Siirt Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Siirt Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86652",
@@ -1606,7 +1538,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86652/sakarya-uygulamali-bilimler-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1618,12 +1549,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Sakarya Uygulamalı Bilimler Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Sakarya Uygulamalı Bilimler Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86651",
@@ -1650,7 +1580,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86651/dicle-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1662,12 +1591,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Dicle Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Dicle Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86663",
@@ -1695,7 +1623,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86663/savunma-sanayii-baskanligi-22-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1707,12 +1634,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Savunma Sanayii Başkanlığı personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Savunma Sanayii Başkanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86623",
@@ -1739,7 +1665,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86623/adalet-bakanligi-150-icra-muduru-ve-icra-mudur-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1751,12 +1676,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Adalet Bakanlığı personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Adalet Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86427",
@@ -1784,7 +1708,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86427/iletisim-baskanligi-15-iletisim-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1796,12 +1719,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İletişim Başkanlığı personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "İletişim Başkanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86426",
@@ -1829,7 +1751,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86426/spk-40-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1841,12 +1762,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "SPK 40 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "SPK 40 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86397",
@@ -1874,7 +1794,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86397/ozellestirme-idaresi-baskanligi-14-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1886,12 +1805,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Özelleştirme İdaresi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Özelleştirme İdaresi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86655",
@@ -1918,7 +1836,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86655/bddk-15-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1930,12 +1847,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BDDK, 15 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "BDDK, 15 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86649",
@@ -1962,7 +1878,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86649/turk-patent-ve-marka-kurumu-1-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -1974,12 +1889,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Türk Patent ve Marka Kurumu personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Türk Patent ve Marka Kurumu personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86637",
@@ -2006,7 +1920,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86637/yargitay-4-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2018,12 +1931,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Yargıtay 4 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Yargıtay 4 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86632",
@@ -2051,7 +1963,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86632/calisma-ve-sosyal-guvenlik-bakanligi-5-sozlesmeli-bilisim-personeli-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "2001",
         "6225"
@@ -2064,12 +1975,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 60"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çalışma ve Sosyal Güvenlik Bakanlığı personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Çalışma ve Sosyal Güvenlik Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86629",
@@ -2095,7 +2005,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86629/ankara-universitesi-103-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2107,12 +2016,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ankara Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ankara Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86613",
@@ -2138,7 +2046,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86613/ardahan-posof-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2150,12 +2057,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ardahan Posof Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ardahan Posof Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86601",
@@ -2182,7 +2088,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86601/sile-belediyesi-6-memur-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2194,12 +2099,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Şile Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Şile Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86600",
@@ -2227,7 +2131,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86600/sile-belediyesi-8-zabita-memuru-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "3001",
         "4001"
@@ -2240,12 +2143,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 65"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Şile Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Şile Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86515",
@@ -2272,7 +2174,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86515/atalan-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2284,12 +2185,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Atalan Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Atalan Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86470",
@@ -2316,7 +2216,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86470/celtik-belediyesi-2-memur-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2328,12 +2227,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çeltik Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Çeltik Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86681",
@@ -2359,7 +2257,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86681/trabzon-vakifkebir-belediyesi-gecici-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2371,12 +2268,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Trabzon Vakıfkebir Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Trabzon Vakıfkebir Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86680",
@@ -2402,7 +2298,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86680/yozgat-sorgun-sydv-gecici-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2414,12 +2309,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Yozgat Sorgun personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Yozgat Sorgun personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86673",
@@ -2445,7 +2339,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86673/bursa-harmancik-belediyesi-3-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2457,12 +2350,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Bursa Harmancık Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Bursa Harmancık Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86671",
@@ -2488,7 +2380,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86671/artvin-belediyesi-16-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2500,12 +2391,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Artvin Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Artvin Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86661",
@@ -2531,7 +2421,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86661/manisa-sehzadeler-sydv-3-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2543,12 +2432,216 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Manisa Şehzadeler personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Manisa Şehzadeler personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86675",
+      "title": "İstanbul Personel Yönetim Aş. 25 İşçi Alacak",
+      "institution": "İstanbul Personel",
+      "institutionCode": "STANBULP",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86675/istanbul-personel-yonetim-as-25-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İstanbul Personel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86674",
+      "title": "Malatya Hekimhan Taahhüt İnşaat 3 İşçi Alacak",
+      "institution": "Malatya Hekimhan",
+      "institutionCode": "MALATYAHE",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Malatya"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86674/malatya-hekimhan-taahhut-insaat-3-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Malatya Hekimhan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86672",
+      "title": "Hatay Erzin Belediyesi 1 İşçi Alacak",
+      "institution": "Hatay Erzin Belediyesi",
+      "institutionCode": "HATAYERZI",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Hatay"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86672/hatay-erzin-belediyesi-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Hatay Erzin Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86670",
+      "title": "İnebolu Belediyesi 1 İşçi Alacak",
+      "institution": "İnebolu Belediyesi",
+      "institutionCode": "NEBOLUBE",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Bolu"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86670/inebolu-belediyesi-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İnebolu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86662",
+      "title": "Malatya Hekimhan Taahhüt İnşaat 3 İşçi Alacak",
+      "institution": "Malatya Hekimhan",
+      "institutionCode": "MALATYAHE",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Malatya"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86662/malatya-hekimhan-taahhut-insaat-3-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Malatya Hekimhan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86634",
@@ -2575,7 +2668,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86634/akdeniz-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2587,12 +2679,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Akdeniz Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Akdeniz Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86636",
@@ -2618,7 +2709,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86636/artvin-coruh-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2630,12 +2720,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Artvin Çoruh Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Artvin Çoruh Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86628",
@@ -2661,7 +2750,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86628/ankara-haci-bayram-veli-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2673,12 +2761,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ankara Hacı Bayram Veli Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ankara Hacı Bayram Veli Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86626",
@@ -2704,7 +2791,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86626/kirsehir-ahi-evran-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2716,12 +2802,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Kırşehir Ahi Evran Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Kırşehir Ahi Evran Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86625",
@@ -2747,7 +2832,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86625/samsun-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2759,12 +2843,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Samsun Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Samsun Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-85834",
@@ -2792,7 +2875,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/85834/gelir-idaresi-860-gelir-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2804,12 +2886,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Gelir İdaresi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Gelir İdaresi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86627",
@@ -2818,7 +2899,7 @@ export const LIVE_POSTINGS_DATA = {
       "institutionCode": "BATMANNI",
       "logo": "🎓",
       "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Eğitim & Akademi",
       "quota": 1,
       "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
@@ -2835,7 +2916,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86627/batman-universitesi-15-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2847,12 +2927,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Batman Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Batman Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86608",
@@ -2861,7 +2940,7 @@ export const LIVE_POSTINGS_DATA = {
       "institutionCode": "ATATRKN",
       "logo": "🎓",
       "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Eğitim & Akademi",
       "quota": 1,
       "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
@@ -2879,7 +2958,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86608/ataturk-universitesi-97-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2891,12 +2969,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Atatürk Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Atatürk Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86563",
@@ -2905,7 +2982,7 @@ export const LIVE_POSTINGS_DATA = {
       "institutionCode": "TRKIYEUL",
       "logo": "🎓",
       "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Eğitim & Akademi",
       "quota": 1,
       "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
@@ -2923,7 +3000,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86563/turkiye-uluslararasi-islam-bilim-ve-teknoloji-universitesi-7-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2935,12 +3011,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Türkiye Uluslararası personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Türkiye Uluslararası personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86558",
@@ -2949,7 +3024,7 @@ export const LIVE_POSTINGS_DATA = {
       "institutionCode": "DZCENIV",
       "logo": "🎓",
       "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Eğitim & Akademi",
       "quota": 1,
       "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
@@ -2966,7 +3041,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86558/duzce-universitesi-2-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -2978,12 +3052,429 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Düzce Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Düzce Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86469",
+      "title": "İETT 44 Memur Alacak",
+      "institution": "İETT 44",
+      "institutionCode": "ETT44",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 44,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86469/iett-44-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İETT 44 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86425",
+      "title": "Çukurkuyu Belediyesi 1 Memur Alacak",
+      "institution": "Çukurkuyu Belediyesi",
+      "institutionCode": "UKURKUYU",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86425/cukurkuyu-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Çukurkuyu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86400",
+      "title": "Gerede Belediyesi 1 sözleşmeli personel alacak",
+      "institution": "Gerede Belediyesi",
+      "institutionCode": "GEREDEBEL",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86400/gerede-belediyesi-1-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Gerede Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86375",
+      "title": "Mucur Belediyesi 1 Memur Alacak",
+      "institution": "Mucur Belediyesi",
+      "institutionCode": "MUCURBELE",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86375/mucur-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Mucur Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86346",
+      "title": "Pursaklar Belediyesi 9 zabıta memuru alacak",
+      "institution": "Pursaklar Belediyesi",
+      "institutionCode": "PURSAKLAR",
+      "logo": "⚖️",
+      "tier": "university",
+      "category": "Adalet & Hukuk",
+      "quota": 9,
+      "educationLevel": "Ön Lisans & Lisans",
+      "kpssScoreTypes": [
+        "KPSS P93",
+        "KPSS P3"
+      ],
+      "minScore": 65,
+      "contractType": "Kadrolu Memur (657)",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86346/pursaklar-belediyesi-9-zabita-memuru-alacak.html",
+      "qualificationCodes": [
+        "3001",
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Ön Lisans & Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 65"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Pursaklar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86640",
+      "title": "Artvin Belediyesi Geçici 16 İşçi Alacak",
+      "institution": "Artvin Belediyesi",
+      "institutionCode": "ARTVINBEL",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Artvin"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86640/artvin-belediyesi-gecici-16-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Artvin Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86645",
+      "title": "Hatay Erzin Belediyesi 1 İşçi Alacak",
+      "institution": "Hatay Erzin Belediyesi",
+      "institutionCode": "HATAYERZI",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Hatay"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86645/hatay-erzin-belediyesi-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Hatay Erzin Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86644",
+      "title": "Mersin Erdemli Personel AŞ. Geçici 1 İşçi Alacak",
+      "institution": "Mersin Erdemli",
+      "institutionCode": "MERSINERD",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Mersin"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86644/mersin-erdemli-personel-as-gecici-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Mersin Erdemli personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86473",
+      "title": "Ballıca Mahperi Turizm Geçici 2 İşçi Alacak",
+      "institution": "Ballıca Mahperi",
+      "institutionCode": "BALLCAMA",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86473/ballica-mahperi-turizm-gecici-2-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Ballıca Mahperi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-84194",
+      "title": "Niğde Bor Belediyesi Geçici 50 İşçi Alacak",
+      "institution": "Niğde Bor Belediyesi",
+      "institutionCode": "NIDEBOR",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Niğde"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/84194/nigde-bor-belediyesi-gecici-50-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Niğde Bor Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86556",
@@ -3009,7 +3500,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86556/ankara-haci-bayram-veli-universitesi-18-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3021,12 +3511,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ankara Hacı Bayram Veli Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ankara Hacı Bayram Veli Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86549",
@@ -3053,7 +3542,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86549/tapu-ve-kadastro-genel-mudurlugu-19-sozlesmeli-bilisim-personeli-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4531",
         "4539",
@@ -3067,12 +3555,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Tapu ve Kadastro Genel Müdürlüğü personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Tapu ve Kadastro Genel Müdürlüğü personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86510",
@@ -3100,7 +3587,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86510/sahil-guvenlik-akademisi-1-sozlesmeli-ucak-pilotu-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "2001",
         "6225"
@@ -3113,234 +3599,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 60"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Sahil Güvenlik personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86400",
-      "title": "Gerede Belediyesi 1 sözleşmeli personel alacak",
-      "institution": "Gerede Belediyesi",
-      "institutionCode": "GEREDEBEL",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86400/gerede-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Gerede Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86469",
-      "title": "İETT 44 Memur Alacak",
-      "institution": "İETT 44",
-      "institutionCode": "ETT44",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 44,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86469/iett-44-memur-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "İETT 44 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86425",
-      "title": "Çukurkuyu Belediyesi 1 Memur Alacak",
-      "institution": "Çukurkuyu Belediyesi",
-      "institutionCode": "UKURKUYU",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86425/cukurkuyu-belediyesi-1-memur-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Çukurkuyu Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86375",
-      "title": "Mucur Belediyesi 1 Memur Alacak",
-      "institution": "Mucur Belediyesi",
-      "institutionCode": "MUCURBELE",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86375/mucur-belediyesi-1-memur-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Mucur Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86346",
-      "title": "Pursaklar Belediyesi 9 zabıta memuru alacak",
-      "institution": "Pursaklar Belediyesi",
-      "institutionCode": "PURSAKLAR",
-      "logo": "⚖️",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 9,
-      "educationLevel": "Ön Lisans & Lisans",
-      "kpssScoreTypes": [
-        "KPSS P93",
-        "KPSS P3"
-      ],
-      "minScore": 65,
-      "contractType": "Kadrolu Memur (657)",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86346/pursaklar-belediyesi-9-zabita-memuru-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "3001",
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Ön Lisans & Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 65"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Pursaklar Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Sahil Güvenlik personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86324",
@@ -3367,7 +3630,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86324/taskesti-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3379,12 +3641,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Taşkesti Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Taşkesti Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86323",
@@ -3411,7 +3672,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86323/aralik-belediyesi-3-itfaiye-eri-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3423,12 +3683,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Aralık Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Aralık Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86638",
@@ -3455,7 +3714,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86638/msb-219-ogretmen-ve-muhendis-subay-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3467,12 +3725,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "MSB 219 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "MSB 219 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86639",
@@ -3500,7 +3757,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86639/msb-127-tabip-dis-tabibi-ve-beden-egitimi-ogretmeni-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001",
         "3001"
@@ -3513,227 +3769,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 60"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "MSB 127 personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86675",
-      "title": "00:42 İstanbul Personel Yönetim Aş. 25 İşçi Alacak",
-      "institution": "00:42 İstanbul",
-      "institutionCode": "0042STA",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86675/istanbul-personel-yonetim-as-25-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "00:42 İstanbul personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86674",
-      "title": "00:39 Malatya Hekimhan Taahhüt İnşaat 3 İşçi Alacak",
-      "institution": "00:39 Malatya",
-      "institutionCode": "0039MALA",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Malatya"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86674/malatya-hekimhan-taahhut-insaat-3-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "00:39 Malatya personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86672",
-      "title": "00:32 Hatay Erzin Belediyesi 1 İşçi Alacak",
-      "institution": "00:32 Hatay",
-      "institutionCode": "0032HATA",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Hatay"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86672/hatay-erzin-belediyesi-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "00:32 Hatay personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86670",
-      "title": "İnebolu Belediyesi 1 İşçi Alacak",
-      "institution": "İnebolu Belediyesi",
-      "institutionCode": "NEBOLUBE",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Bolu"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86670/inebolu-belediyesi-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "İnebolu Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86662",
-      "title": "Malatya Hekimhan Taahhüt İnşaat 3 İşçi Alacak",
-      "institution": "Malatya Hekimhan",
-      "institutionCode": "MALATYAHE",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Malatya"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86662/malatya-hekimhan-taahhut-insaat-3-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Malatya Hekimhan personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "MSB 127 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86660",
@@ -3759,7 +3799,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86660/mersin-seltas-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3771,12 +3810,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Mersin Seltaş personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Mersin Seltaş personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86656",
@@ -3802,7 +3840,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86656/izmir-aliaga-belediyesi-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3814,12 +3851,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İzmir Aliağa Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "İzmir Aliağa Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86657",
@@ -3846,7 +3882,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86657/bandirma-insan-kaynaklari-15-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3858,12 +3893,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Bandırma İnsan personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Bandırma İnsan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86646",
@@ -3889,7 +3923,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86646/erzurum-esker-insaat-4-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3901,55 +3934,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Erzurum Esker personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86645",
-      "title": "Hatay Erzin Belediyesi 1 İşçi Alacak",
-      "institution": "Hatay Erzin Belediyesi",
-      "institutionCode": "HATAYERZI",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Hatay"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86645/hatay-erzin-belediyesi-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Hatay Erzin Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Erzurum Esker personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86643",
@@ -3975,7 +3964,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86643/antalya-ekdag-ekmek-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -3987,12 +3975,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Antalya Ekdağ personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Antalya Ekdağ personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86642",
@@ -4018,7 +4005,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86642/denizli-buyuksehir-belediyesi-4-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4030,12 +4016,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Denizli Büyükşehir Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Denizli Büyükşehir Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86641",
@@ -4061,7 +4046,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86641/afyonkarahisar-isjet-2-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4073,12 +4057,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Afyonkarahisar İsjet personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Afyonkarahisar İsjet personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86584",
@@ -4105,7 +4088,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86584/turkiye-taskomuru-kurumu-genel-mudurlugu-61-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4117,12 +4099,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Türkiye Taşkömürü Kurumu personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Türkiye Taşkömürü Kurumu personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86582",
@@ -4150,7 +4131,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86582/ziraat-bankasi-150-uzman-yardimcisi-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4162,185 +4142,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Ziraat Bankası personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86640",
-      "title": "Artvin Belediyesi Geçici 16 İşçi Alacak",
-      "institution": "Artvin Belediyesi",
-      "institutionCode": "ARTVINBEL",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Artvin"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86640/artvin-belediyesi-gecici-16-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Artvin Belediyesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86644",
-      "title": "Mersin Erdemli Personel AŞ. Geçici 1 İşçi Alacak",
-      "institution": "Mersin Erdemli",
-      "institutionCode": "MERSINERD",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Mersin"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86644/mersin-erdemli-personel-as-gecici-1-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Mersin Erdemli personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86473",
-      "title": "Ballıca Mahperi Turizm Geçici 2 İşçi Alacak",
-      "institution": "Ballıca Mahperi",
-      "institutionCode": "BALLCAMA",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86473/ballica-mahperi-turizm-gecici-2-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Ballıca Mahperi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-84194",
-      "title": "9 Mart Niğde Bor Belediyesi Geçici 50 İşçi Alacak",
-      "institution": "9 Mart",
-      "institutionCode": "9MART",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 9,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Niğde"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/84194/nigde-bor-belediyesi-gecici-50-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "9 Mart personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Ziraat Bankası personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-48143",
@@ -4366,7 +4172,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/48143/afyonkarahisar-ihsaniye-ihsan-oren-tasimacilik-gecici-5-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4378,12 +4183,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "2019 Afyonkarahisar personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "2019 Afyonkarahisar personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-46813",
@@ -4409,7 +4213,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/46813/bursa-osmangazi-belediyesi-3-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4421,12 +4224,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "27 Haziran personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "27 Haziran personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-46209",
@@ -4452,7 +4254,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/46209/antalya-kas-likya-turizm-gecici-76-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4464,12 +4265,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "21 Mayıs personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "21 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-46095",
@@ -4495,7 +4295,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/46095/mugla-dal-bel-gunubirlik-turizm-gecici-10-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4507,12 +4306,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "15 Mayıs personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "15 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-42149",
@@ -4539,7 +4337,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/42149/karacabey-belediyesi-gecici-isci-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4551,12 +4348,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "25 Mayıs personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "25 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-29967",
@@ -4582,7 +4378,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/29967/osmaniye-yagli-tohumlar-aras-ist-gecici-isci-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4594,12 +4389,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "2014 Osmaniye personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "2014 Osmaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-50532",
@@ -4625,7 +4419,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/50532/zonguldak-kilimli-sydv-gecici-2-isci-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4637,12 +4430,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "29 Ocak personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "29 Ocak personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86612",
@@ -4668,7 +4460,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86612/usak-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4680,12 +4471,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Uşak Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Uşak Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86611",
@@ -4712,7 +4502,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86611/suleyman-demirel-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4724,12 +4513,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Süleyman Demirel Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Süleyman Demirel Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86610",
@@ -4755,7 +4543,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86610/canakkale-onsekiz-mart-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4767,12 +4554,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çanakkale Onsekiz Mart Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Çanakkale Onsekiz Mart Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86607",
@@ -4799,7 +4585,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86607/ataturk-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4811,12 +4596,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Atatürk Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Atatürk Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86606",
@@ -4842,7 +4626,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86606/adiyaman-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4854,12 +4637,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Adıyaman Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Adıyaman Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86605",
@@ -4885,7 +4667,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86605/aydin-adnan-menderes-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4897,12 +4678,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Aydın Adnan Menderes Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Aydın Adnan Menderes Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86604",
@@ -4928,7 +4708,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86604/van-yuzuncu-yil-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4940,12 +4719,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Van Yüzüncü Yıl Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Van Yüzüncü Yıl Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86603",
@@ -4971,7 +4749,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86603/balikesir-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -4983,12 +4760,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Balıkesir Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Balıkesir Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86602",
@@ -5014,7 +4790,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86602/cankiri-karatekin-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5026,12 +4801,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çankırı Karatekin Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Çankırı Karatekin Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86599",
@@ -5058,7 +4832,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86599/yildiz-teknik-universitesi-ogretim-uyesi-alim-ilani.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5070,12 +4843,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Yıldız Teknik Üniversitesi personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Yıldız Teknik Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86456",
@@ -5102,7 +4874,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86456/dogu-marmara-kalkinma-ajansi-5-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5114,12 +4885,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Doğu Marmara personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Doğu Marmara personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86360",
@@ -5147,7 +4917,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/86360/bati-akdeniz-kalkinma-ajansi-3-uzman-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5159,12 +4928,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 75"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Batı Akdeniz personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Batı Akdeniz personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-55469",
@@ -5191,7 +4959,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
       "sourceUrl": "https://ilan.memurlar.net/ilan/55469/mevlana-kalkinma-ajansi-4-personel-alacak.html",
-      "alternateUrl": "https://ilan.memurlar.net/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5203,12 +4970,11 @@ export const LIVE_POSTINGS_DATA = {
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Memurlar.net İlan Detayı & Kurumun Resmi Başvuru Portalı",
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "30 Aralık personel alımı ilanı. Kadro ve alım şartları Memurlar.net üzerinde yayımlanmıştır."
+      "description": "30 Aralık personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "rg-20261010-4-1",
@@ -5230,12 +4996,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-1.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5246,7 +5011,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5273,12 +5037,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-2.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5289,7 +5052,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5316,12 +5078,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-3.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5332,7 +5093,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5359,12 +5119,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-4.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5375,7 +5134,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5402,12 +5160,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-5.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5418,7 +5175,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5445,12 +5201,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-6.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5461,7 +5216,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5488,12 +5242,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-7.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5504,7 +5257,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5530,12 +5282,11 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-8.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5546,7 +5297,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5573,12 +5323,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-9.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5589,7 +5338,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5616,12 +5364,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-10.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5632,7 +5379,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5659,12 +5405,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-11.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5675,7 +5420,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5701,12 +5445,11 @@ export const LIVE_POSTINGS_DATA = {
         "Nevşehir"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-12.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5717,7 +5460,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5744,12 +5486,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-13.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5760,7 +5501,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5787,12 +5527,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-14.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5803,7 +5542,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5830,12 +5568,11 @@ export const LIVE_POSTINGS_DATA = {
         "İstanbul"
       ],
       "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261010-4-15.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5846,7 +5583,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5872,13 +5608,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-1.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5889,7 +5624,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5915,13 +5649,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-2.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5932,7 +5665,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -5958,13 +5690,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-3.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -5975,7 +5706,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6001,13 +5731,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-4.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6018,7 +5747,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6043,13 +5771,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Yozgat"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-5.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6060,7 +5787,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6086,13 +5812,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-6.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6103,7 +5828,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6128,13 +5852,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-7.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6145,7 +5868,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6171,13 +5893,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-8.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6188,7 +5909,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6214,13 +5934,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-9.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6231,7 +5950,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6257,13 +5975,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-10.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6274,7 +5991,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6300,13 +6016,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-11.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6317,7 +6032,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6343,13 +6057,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-12.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6360,7 +6073,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6386,13 +6098,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-13.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6403,7 +6114,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6429,13 +6139,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-14.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6446,7 +6155,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6471,13 +6179,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Manisa"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-15.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6488,7 +6195,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6513,13 +6219,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Osmaniye"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-16.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6530,7 +6235,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6556,13 +6260,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-17.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6573,7 +6276,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6599,13 +6301,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-18.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6616,7 +6317,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6641,13 +6341,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Giresun"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-19.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6658,7 +6357,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6684,13 +6382,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-20.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6701,7 +6398,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6726,13 +6422,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-21.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6743,7 +6438,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6769,13 +6463,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-22.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6786,7 +6479,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6812,13 +6504,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-09",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261009-4-23.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6829,7 +6520,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6855,13 +6545,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-1.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6872,7 +6561,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6897,13 +6585,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Ankara"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-2.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6914,7 +6601,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6940,13 +6626,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-3.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -6957,7 +6642,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -6983,13 +6667,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-4.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7000,7 +6683,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7026,13 +6708,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-5.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7043,7 +6724,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7069,13 +6749,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-6.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7086,7 +6765,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7112,13 +6790,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-7.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7129,7 +6806,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7155,13 +6831,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-8.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7172,7 +6847,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7198,13 +6872,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-9.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7215,7 +6888,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7240,13 +6912,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Karaman"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-10.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7257,7 +6928,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7282,13 +6952,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Aydın"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-11.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7299,7 +6968,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7325,13 +6993,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-12.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7342,7 +7009,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7368,13 +7034,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-08",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261008-4-13.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7385,7 +7050,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7411,13 +7075,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-1.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7428,7 +7091,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7454,13 +7116,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-2.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7471,7 +7132,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7497,13 +7157,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-3.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7514,7 +7173,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7540,13 +7198,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-4.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7557,7 +7214,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7583,13 +7239,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-5.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7600,7 +7255,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7626,13 +7280,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-6.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7643,7 +7296,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7669,13 +7321,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-7.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7686,7 +7337,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7712,13 +7362,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-8.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7729,7 +7378,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7755,13 +7403,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-9.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7772,7 +7419,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7798,13 +7444,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-10.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7815,7 +7460,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7840,13 +7484,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Sakarya"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-11.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7857,7 +7500,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7882,13 +7524,12 @@ export const LIVE_POSTINGS_DATA = {
       "cities": [
         "Siirt"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-12.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7899,7 +7540,6 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
       "status": "Aktif",
       "featured": true,
       "isLive": true,
@@ -7925,13 +7565,12 @@ export const LIVE_POSTINGS_DATA = {
         "Ankara",
         "İstanbul"
       ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-25",
-      "dateRangeDisplay": "Resmi Gazete",
+      "publishDate": "2026-10-07",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261007-4-13.pdf",
-      "alternateUrl": "https://www.resmigazete.gov.tr/",
       "qualificationCodes": [
         "4001"
       ],
@@ -7942,7 +7581,699 @@ export const LIVE_POSTINGS_DATA = {
         "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
         "KPSS asgari taban puanı: 70"
       ],
-      "applicationMethod": "Resmi Gazete İlan Metni & İlgili Kurumun Başvuru Sistemi",
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-1",
+      "title": "Yargıtay Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Yargıtay",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Adalet & Hukuk",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-1.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-2",
+      "title": "Kültür ve Turizm Bakanlığı Vakıflar Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Kültür ve Turizm Bakanlığı Vakıflar",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-2.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-3",
+      "title": "Rize Belediye Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Rize Belediye",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Rize"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-3.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-4",
+      "title": "Muş İli Malazgirt Belediye Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Muş İli Malazgirt Belediye",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Muş"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-4.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-5",
+      "title": "Millî Savunma Bakanlığı Tersaneler Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Millî Savunma Bakanlığı Tersaneler",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-5.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-6",
+      "title": "Milli Savunma Bakanlığı Tedarik Hizmetleri Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Milli Savunma Bakanlığı Tedarik Hizmetleri",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-6.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-7",
+      "title": "Enerji ve Tabii Kaynaklar Bakanlığı Türkiye Elektrik İletim A.Ş. Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Enerji ve Tabii Kaynaklar Bakanlığı Türkiye Elektrik İletim A.Ş.",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-7.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-8",
+      "title": "Milli Eğitim Bakanlığı Temel Eğitim Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Milli Eğitim Bakanlığı Temel Eğitim",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-8.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-9",
+      "title": "Milli Eğitim Bakanlığı Destek Hizmetleri Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Milli Eğitim Bakanlığı Destek Hizmetleri",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-9.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-10",
+      "title": "Burdur Mehmet Akif Ersoy Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Burdur Mehmet Akif Ersoy Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Burdur"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-10.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-11",
+      "title": "Enerji Piyasası Düzenleme Kurumundan: Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Enerji Piyasası Düzenleme Kurumundan:",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-11.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-12",
+      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı İşleri Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı İşleri",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-12.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-13",
+      "title": "Artvin Çoruh Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Artvin Çoruh Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Artvin"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-13.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-14",
+      "title": "Akdeniz Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Akdeniz Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-14.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-15",
+      "title": "Çankaya Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Çankaya Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-15.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-16",
+      "title": "Kafkas Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Kafkas Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-16.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261006-4-17",
+      "title": "Kültür ve Turizm Bakanlığından: Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Kültür ve Turizm Bakanlığından:",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-06",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261006-4-17.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
       "status": "Aktif",
       "featured": true,
       "isLive": true,
