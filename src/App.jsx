@@ -15,7 +15,8 @@ import LiveStreamBanner from './components/LiveStreamBanner';
 import Pagination from './components/Pagination';
 import Footer from './components/Footer';
 
-import { JOB_POSTINGS } from './data/jobPostings';
+import { JOB_POSTINGS, EDUCATION_LEVELS } from './data/jobPostings';
+import { PORTAL_SOURCES } from './data/portalSources';
 import { LIVE_POSTINGS_DATA } from './data/livePostingsData';
 import { 
   Filter, 
@@ -31,12 +32,14 @@ import {
   GraduationCap,
   Clock,
   Users,
-  BookOpen
+  BookOpen,
+  X,
+  Globe
 } from 'lucide-react';
 import './App.css';
 
 const DEFAULT_PROFILE = {
-  educationLevel: 'lisans',
+  educationLevel: 'all',
   department: 'Tümü',
   score: 75.50,
   city: 'Tüm Türkiye',
@@ -257,7 +260,7 @@ export default function App() {
     return cats;
   }, [allPostings]);
 
-  // Filtered and sorted listings
+  // Filtered and sorted listings - directly reflecting all user criteria
   const filteredPostings = useMemo(() => {
     const today = new Date('2026-10-09');
 
@@ -270,22 +273,35 @@ export default function App() {
         return false;
       }
 
-      // 0.1 Live Only Filter
+      // 0.1 Sidebar Profile Education Level Filter (Lisans, Ön Lisans, Lise, A Grubu)
+      if (userProfile.educationLevel && userProfile.educationLevel !== 'all') {
+        const lvl = userProfile.educationLevel;
+        const jobLvl = (job.educationLevel || '').toLowerCase();
+        
+        if (lvl === 'lisans') {
+          const isLisans = jobLvl.includes('lisans') && !jobLvl.startsWith('ön lisans');
+          if (!isLisans && job.tier !== 'university') return false;
+        } else if (lvl === 'onlisans') {
+          const isOnlisans = jobLvl.includes('ön lisans') || jobLvl.includes('onlisans') || jobLvl.includes('önlisans');
+          if (!isOnlisans) return false;
+        } else if (lvl === 'lise') {
+          const isLise = jobLvl.includes('ortaöğretim') || jobLvl.includes('lise') || job.tier === 'lise';
+          if (!isLise) return false;
+        } else if (lvl === 'a_grubu') {
+          const isAGrubu = (job.contractType || '').toLowerCase().includes('kariyer') || 
+                           (job.contractType || '').toLowerCase().includes('a grubu') || 
+                           (job.category || '').includes('Uzmanlık');
+          if (!isAGrubu) return false;
+        }
+      }
+
+      // 0.2 Live Only Filter
       if (isLiveOnlyFilter && !job.isLive) {
         return false;
       }
 
-      // 0.2 Quick Filter Bar
+      // 0.3 Quick Filter Bar
       if (quickFilter === 'live' && !job.isLive) {
-        return false;
-      }
-      if (quickFilter === 'lisans' && !job.educationLevel.toLowerCase().includes('lisans')) {
-        return false;
-      }
-      if (quickFilter === 'onlisans' && !job.educationLevel.toLowerCase().includes('ön lisans')) {
-        return false;
-      }
-      if (quickFilter === 'lise' && !job.educationLevel.toLowerCase().includes('ortaöğretim') && !job.educationLevel.toLowerCase().includes('lise')) {
         return false;
       }
       if (quickFilter === 'urgent') {
@@ -297,17 +313,13 @@ export default function App() {
         return false;
       }
 
-      // 1. Search Query
+      // 1. Multi-term Search Query
       if (searchQuery.trim()) {
-        const q = searchQuery.toLowerCase().trim();
-        const inTitle = job.title.toLowerCase().includes(q);
-        const inInst = job.institution.toLowerCase().includes(q);
-        const inCodes = job.qualificationCodes.some(c => c.toLowerCase().includes(q));
-        const inDepts = job.requiredDepartments.some(d => d.toLowerCase().includes(q));
-        const inCities = job.cities.some(c => c.toLowerCase().includes(q));
-        const inDesc = job.description.toLowerCase().includes(q);
-
-        if (!inTitle && !inInst && !inCodes && !inDepts && !inCities && !inDesc) {
+        const terms = searchQuery.toLowerCase().trim().split(/\s+/).filter(Boolean);
+        const searchableText = `${job.title} ${job.institution} ${job.category} ${(job.qualificationCodes || []).join(' ')} ${(job.requiredDepartments || []).join(' ')} ${(job.cities || []).join(' ')} ${job.contractType || ''} ${job.educationLevel || ''} ${job.description || ''}`.toLowerCase();
+        
+        const allTermsMatch = terms.every(term => searchableText.includes(term));
+        if (!allTermsMatch) {
           return false;
         }
       }
@@ -323,30 +335,46 @@ export default function App() {
       }
 
       // 4. City filter from profile
-      if (userProfile.city !== 'Tüm Türkiye') {
-        const cityMatches = job.cities.some(c => 
-          c.toLowerCase().includes(userProfile.city.toLowerCase()) || 
-          c.toLowerCase().includes('81 il') ||
-          c.toLowerCase().includes('tüm türkiye')
-        );
+      if (userProfile.city && userProfile.city !== 'Tüm Türkiye') {
+        const userCity = userProfile.city.toLowerCase();
+        const cityMatches = (job.cities || []).some(c => {
+          const lc = c.toLowerCase();
+          return lc.includes(userCity) || lc.includes('81 il') || lc.includes('tüm türkiye');
+        });
         if (!cityMatches) return false;
       }
 
       // 5. Department filter from profile
-      if (userProfile.department !== 'Tümü') {
-        const deptMatches = job.requiredDepartments.some(d => 
-          d.toLowerCase().includes(userProfile.department.toLowerCase()) ||
-          d.toLowerCase().includes('tüm lisans') ||
-          d.toLowerCase().includes('tüm ön lisans') ||
-          d.toLowerCase().includes('tüm lise') ||
-          d.toLowerCase().includes('ilgili')
-        );
+      if (userProfile.department && userProfile.department !== 'Tümü') {
+        const userDept = userProfile.department.toLowerCase();
+        const deptMatches = (job.requiredDepartments || []).some(d => {
+          const ld = d.toLowerCase();
+          return ld.includes(userDept) || ld.includes('tüm lisans') || ld.includes('tüm ön lisans') || ld.includes('tüm lise') || ld.includes('ilgili');
+        }) || (job.title || '').toLowerCase().includes(userDept);
         if (!deptMatches) return false;
       }
 
-      // 6. Only eligible filter
+      // 6. Only eligible filter (Score + Qualifications)
       if (userProfile.onlyEligible) {
         if (userProfile.score < job.minScore) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('6225') && !userProfile.hasComputerCert) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('6506') && !userProfile.hasDrivingLicenseB) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('6511') && !userProfile.hasDrivingLicenseC) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('7101') && !userProfile.hasLanguageYDS) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('7322') && !userProfile.isUnder35) {
+          return false;
+        }
+        if (job.qualificationCodes?.includes('7300') && !userProfile.canShiftWork) {
           return false;
         }
       }
@@ -380,6 +408,98 @@ export default function App() {
   const eligibleCount = useMemo(() => {
     return allPostings.filter(j => userProfile.score >= j.minScore).length;
   }, [allPostings, userProfile.score]);
+
+  // Dynamic list of currently applied filter tags for instant visual feedback and 1-click removal
+  const activeFilterList = useMemo(() => {
+    const list = [];
+
+    if (searchQuery.trim()) {
+      list.push({
+        id: 'search',
+        label: `Arama: "${searchQuery.trim()}"`,
+        onRemove: () => setSearchQuery('')
+      });
+    }
+
+    if (educationTier !== 'all') {
+      list.push({
+        id: 'tier',
+        label: educationTier === 'university' ? 'Düzey: Üniversite KPSS' : 'Düzey: Lise KPSS',
+        onRemove: () => setEducationTier('all')
+      });
+    }
+
+    if (userProfile.educationLevel && userProfile.educationLevel !== 'all') {
+      const edu = EDUCATION_LEVELS.find(l => l.id === userProfile.educationLevel);
+      list.push({
+        id: 'eduLevel',
+        label: `Öğrenim: ${edu ? edu.label : userProfile.educationLevel}`,
+        onRemove: () => setUserProfile(prev => ({ ...prev, educationLevel: 'all' }))
+      });
+    }
+
+    if (userProfile.city && userProfile.city !== 'Tüm Türkiye') {
+      list.push({
+        id: 'city',
+        label: `İl: ${userProfile.city}`,
+        onRemove: () => setUserProfile(prev => ({ ...prev, city: 'Tüm Türkiye' }))
+      });
+    }
+
+    if (userProfile.department && userProfile.department !== 'Tümü') {
+      list.push({
+        id: 'dept',
+        label: `Bölüm: ${userProfile.department}`,
+        onRemove: () => setUserProfile(prev => ({ ...prev, department: 'Tümü' }))
+      });
+    }
+
+    if (userProfile.onlyEligible) {
+      list.push({
+        id: 'eligible',
+        label: `Uygun Kadrolar (≥ ${Number(userProfile.score).toFixed(1)} Puan)`,
+        onRemove: () => setUserProfile(prev => ({ ...prev, onlyEligible: false }))
+      });
+    }
+
+    if (selectedSource) {
+      const src = PORTAL_SOURCES.find(s => s.id === selectedSource);
+      list.push({
+        id: 'source',
+        label: `Kaynak: ${src ? src.shortName || src.name : selectedSource}`,
+        onRemove: () => setSelectedSource(null)
+      });
+    }
+
+    if (selectedCategory && selectedCategory !== 'all') {
+      list.push({
+        id: 'cat',
+        label: `Kategori: ${selectedCategory}`,
+        onRemove: () => setSelectedCategory('all')
+      });
+    }
+
+    if (quickFilter !== 'all') {
+      const qLabels = {
+        live: 'Canlı Resmi İlanlar',
+        urgent: 'Son 5 Gün (Yaklaşan)',
+        high_quota: '10+ Kadro Kontenjanı'
+      };
+      list.push({
+        id: 'quickFilter',
+        label: `Filtre: ${qLabels[quickFilter] || quickFilter}`,
+        onRemove: () => { setQuickFilter('all'); setIsLiveOnlyFilter(false); }
+      });
+    } else if (isLiveOnlyFilter) {
+      list.push({
+        id: 'liveOnly',
+        label: 'Canlı Resmi İlanlar',
+        onRemove: () => setIsLiveOnlyFilter(false)
+      });
+    }
+
+    return list;
+  }, [searchQuery, educationTier, userProfile, selectedSource, selectedCategory, quickFilter, isLiveOnlyFilter]);
 
   return (
     <div className="app-wrapper">
@@ -457,7 +577,7 @@ export default function App() {
             </aside>
 
             {/* Right Column: Listings & Controls */}
-            <section>
+            <section id="postings-section">
               {/* Quick Filter Pills Toolbar */}
               <div className="quick-filters-bar">
                 <button 
@@ -511,6 +631,39 @@ export default function App() {
                   <span>10+ Kadro</span>
                 </button>
               </div>
+
+              {/* Active Filter Chips Strip - Instant Visual Feedback & Clear */}
+              {activeFilterList.length > 0 && (
+                <div className="active-filters-strip">
+                  <div className="active-filters-label">
+                    <Filter size={13} />
+                    <span>Uygulanan Filtreler ({activeFilterList.length}):</span>
+                  </div>
+                  <div className="active-chips-wrap">
+                    {activeFilterList.map(chip => (
+                      <span key={chip.id} className="active-filter-chip">
+                        <span className="chip-text">{chip.label}</span>
+                        <button 
+                          type="button"
+                          className="chip-remove-btn" 
+                          onClick={chip.onRemove}
+                          title="Bu filtreyi kaldır"
+                        >
+                          <X size={12} />
+                        </button>
+                      </span>
+                    ))}
+                    <button 
+                      type="button"
+                      className="clear-all-chips-btn"
+                      onClick={handleResetProfile}
+                      title="Tüm filtreleri ve aramayı sıfırla"
+                    >
+                      Tümünü Temizle
+                    </button>
+                  </div>
+                </div>
+              )}
 
               {/* Category & Sorting Bar */}
               <div className="postings-header">

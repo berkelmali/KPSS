@@ -864,6 +864,97 @@
   color: #ffffff;
 }
 
+/* ACTIVE FILTERS STRIP - INSTANT FEEDBACK */
+.active-filters-strip {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--btn-primary-bg);
+  padding: 0.65rem 0.95rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 0.85rem;
+  box-shadow: var(--shadow-xs);
+}
+
+.active-filters-label {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.775rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+}
+
+.active-chips-wrap {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  flex: 1;
+}
+
+.active-filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--bg-surface-subtle);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-main);
+  padding: 0.25rem 0.55rem;
+  border-radius: var(--radius-xs);
+  font-size: 0.775rem;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.active-filter-chip:hover {
+  border-color: var(--border-strong);
+  background: var(--bg-surface);
+}
+
+.chip-remove-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-subtle);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  border-radius: 3px;
+  transition: var(--transition);
+}
+
+.chip-remove-btn:hover {
+  background: rgba(220, 38, 38, 0.12);
+  color: #dc2626;
+}
+
+.clear-all-chips-btn {
+  background: transparent;
+  border: 1px dashed var(--border-strong);
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: var(--radius-xs);
+  cursor: pointer;
+  transition: var(--transition);
+  margin-left: auto;
+}
+
+.clear-all-chips-btn:hover {
+  background: rgba(220, 38, 38, 0.08);
+  border-color: #dc2626;
+  color: #dc2626;
+}
+
 /* JOB LISTINGS HEADER & CONTROLS */
 .postings-header {
   display: flex;

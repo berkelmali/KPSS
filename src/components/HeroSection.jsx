@@ -36,6 +36,23 @@ export default function HeroSection({
     'Ankara'
   ];
 
+  const scrollToPostings = () => {
+    const postingsEl = document.getElementById('postings-section');
+    if (postingsEl) {
+      postingsEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
+  const handleSearchSubmit = (e) => {
+    e.preventDefault();
+    scrollToPostings();
+  };
+
+  const handleTagClick = (tag) => {
+    setSearchQuery(tag);
+    scrollToPostings();
+  };
+
   return (
     <section className="hero-section">
       <div className="container hero-content">
@@ -70,7 +87,10 @@ export default function HeroSection({
           <div className="education-tier-grid">
             <button
               className={`tier-card-btn ${educationTier === 'university' ? 'active university-active' : ''}`}
-              onClick={() => setEducationTier(educationTier === 'university' ? 'all' : 'university')}
+              onClick={() => {
+                setEducationTier(educationTier === 'university' ? 'all' : 'university');
+                scrollToPostings();
+              }}
               title="Sadece Lisans ve Ön Lisans KPSS alımlarını göster"
             >
               <div className="tier-icon-wrapper uni-icon">
@@ -87,7 +107,10 @@ export default function HeroSection({
 
             <button
               className={`tier-card-btn ${educationTier === 'lise' ? 'active lise-active' : ''}`}
-              onClick={() => setEducationTier(educationTier === 'lise' ? 'all' : 'lise')}
+              onClick={() => {
+                setEducationTier(educationTier === 'lise' ? 'all' : 'lise');
+                scrollToPostings();
+              }}
               title="Sadece Lise / Ortaöğretim mezunlarına açık alımları göster"
             >
               <div className="tier-icon-wrapper lise-icon">
@@ -104,7 +127,10 @@ export default function HeroSection({
 
             <button
               className={`tier-card-btn ${educationTier === 'all' ? 'active all-active' : ''}`}
-              onClick={() => setEducationTier('all')}
+              onClick={() => {
+                setEducationTier('all');
+                scrollToPostings();
+              }}
               title="Tüm mezuniyet düzeylerini birleşik göster"
             >
               <div className="tier-icon-wrapper all-icon">
@@ -122,7 +148,7 @@ export default function HeroSection({
         </div>
 
         {/* Big Search Bar */}
-        <div className="main-search-box">
+        <form className="main-search-box" onSubmit={handleSearchSubmit}>
           <Search size={20} className="search-icon" />
           <input 
             type="text"
@@ -133,6 +159,7 @@ export default function HeroSection({
           />
           {searchQuery && (
             <button 
+              type="button"
               className="search-clear-btn"
               onClick={() => setSearchQuery('')}
               title="Aramayı Temizle"
@@ -140,10 +167,10 @@ export default function HeroSection({
               <X size={16} />
             </button>
           )}
-          <button className="search-submit-btn">
+          <button type="submit" className="search-submit-btn">
             <span>İlan Ara</span>
           </button>
-        </div>
+        </form>
 
         {/* Quick Tag Recommendations */}
         <div className="popular-tags-wrapper">
@@ -152,7 +179,8 @@ export default function HeroSection({
             {quickTags.map((tag) => (
               <button
                 key={tag}
-                onClick={() => setSearchQuery(tag)}
+                type="button"
+                onClick={() => handleTagClick(tag)}
                 className={`quick-tag-btn ${searchQuery === tag ? 'active' : ''}`}
               >
                 {tag}

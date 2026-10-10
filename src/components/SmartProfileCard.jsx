@@ -80,7 +80,7 @@ export default function SmartProfileCard({
           max="100"
           step="0.25"
           value={userProfile.score}
-          onChange={(e) => setUserProfile({ ...userProfile, score: parseFloat(e.target.value) })}
+          onChange={(e) => setUserProfile({ ...userProfile, score: parseFloat(e.target.value), onlyEligible: true })}
           style={{ width: '100%', accentColor: 'var(--primary)', marginTop: '0.5rem', cursor: 'pointer' }}
         />
         <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.75rem', color: 'var(--text-muted)' }}>
@@ -88,6 +88,11 @@ export default function SmartProfileCard({
           <span>75.00</span>
           <span>100.00</span>
         </div>
+        {userProfile.onlyEligible && (
+          <div style={{ fontSize: '0.72rem', color: 'var(--primary)', marginTop: '0.35rem', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <span>✓ Puan filtresi aktif ({Number(userProfile.score).toFixed(1)} ve altı taban puanlar)</span>
+          </div>
+        )}
       </div>
 
       {/* Şehir Tercihi */}
