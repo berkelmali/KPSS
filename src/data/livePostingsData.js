@@ -1,9 +1,9 @@
-// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-11T10:43:56.751Z)
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-11T20:08:26.613Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-10-11T10:43:56.675Z",
-  "lastUpdatedFormatted": "11 Ekim 2026 10:43 (Canlı Veri Akışı)",
-  "totalCount": 184,
-  "universityCount": 168,
+  "timestamp": "2026-10-11T20:08:26.598Z",
+  "lastUpdatedFormatted": "11 Ekim 2026 20:08 (Canlı Veri Akışı)",
+  "totalCount": 183,
+  "universityCount": 167,
   "liseCount": 16,
   "sources": {
     "sbb": {
@@ -14,7 +14,7 @@ export const LIVE_POSTINGS_DATA = {
     },
     "memurlar": {
       "name": "Memurlar.net KPSS & Kamu (12 Kategori)",
-      "count": 91,
+      "count": 90,
       "status": "ONLINE",
       "url": "https://ilan.memurlar.net/"
     },
@@ -3562,50 +3562,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Tapu ve Kadastro Genel Müdürlüğü personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86510",
-      "title": "Sahil Güvenlik Akademisi 1 Sözleşmeli Ucak Pilotu Alacak",
-      "institution": "Sahil Güvenlik",
-      "institutionCode": "SAHILGVE",
-      "logo": "🛠️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Ortaöğretim (Lise & Dengi)",
-      "kpssScoreTypes": [
-        "KPSS P94",
-        "Lise KPSS"
-      ],
-      "minScore": 60,
-      "contractType": "Sürekli İşçi / Sözleşmeli (Lise)",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86510/sahil-guvenlik-akademisi-1-sozlesmeli-ucak-pilotu-alacak.html",
-      "qualificationCodes": [
-        "2001",
-        "6225"
-      ],
-      "requiredDepartments": [
-        "Ortaöğretim (Lise & Dengi) Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 60"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Sahil Güvenlik personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86324",
       "title": "Taşkesti Belediyesi 1 sözleşmeli personel alacak",
       "institution": "Taşkesti Belediyesi",
@@ -3817,47 +3773,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Mersin Seltaş personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86656",
-      "title": "İzmir Aliağa Belediyesi 1 İşçi Alacak",
-      "institution": "İzmir Aliağa Belediyesi",
-      "institutionCode": "ZMIRALIA",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "İzmir"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86656/izmir-aliaga-belediyesi-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "İzmir Aliağa Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86657",
       "title": "Bandırma İnsan Kaynakları 15 İşçi Alacak",
       "institution": "Bandırma İnsan",
@@ -4023,47 +3938,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Denizli Büyükşehir Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86641",
-      "title": "Afyonkarahisar İsjet 2 İşçi Alacak",
-      "institution": "Afyonkarahisar İsjet",
-      "institutionCode": "AFYONKARAH",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Afyonkarahisar"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86641/afyonkarahisar-isjet-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Afyonkarahisar İsjet personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86584",
       "title": "Türkiye Taşkömürü Kurumu Genel Müdürlüğü 61 İşçi Alacak",
       "institution": "Türkiye Taşkömürü Kurumu",
@@ -4147,6 +4021,88 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Ziraat Bankası personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86580",
+      "title": "Denizli Büyükşehir Belediyesi 8 İşçi Alacak",
+      "institution": "Denizli Büyükşehir Belediyesi",
+      "institutionCode": "DENIZLIB",
+      "logo": "🏢",
+      "tier": "lise",
+      "category": "İşçi & Destek Hizmetleri",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Denizli"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86580/denizli-buyuksehir-belediyesi-8-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Denizli Büyükşehir Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86353",
+      "title": "Sivas İmranlı Belediyesi 1 İşçi Alacak",
+      "institution": "Sivas İmranlı Belediyesi",
+      "institutionCode": "SIVASMRA",
+      "logo": "🏢",
+      "tier": "lise",
+      "category": "İşçi & Destek Hizmetleri",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Sivas"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86353/sivas-imranli-belediyesi-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Sivas İmranlı Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-48143",
