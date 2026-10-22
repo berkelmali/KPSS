@@ -1,10 +1,10 @@
-// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-21T20:01:42.438Z)
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-22T00:33:33.825Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-10-21T20:01:42.422Z",
-  "lastUpdatedFormatted": "21 Ekim 2026 20:01 (Canlı Veri Akışı)",
-  "totalCount": 176,
-  "universityCount": 155,
-  "liseCount": 21,
+  "timestamp": "2026-10-22T00:33:33.809Z",
+  "lastUpdatedFormatted": "22 Ekim 2026 00:33 (Canlı Veri Akışı)",
+  "totalCount": 184,
+  "universityCount": 172,
+  "liseCount": 12,
   "sources": {
     "sbb": {
       "name": "T.C. SBB Kamu İlan Portalı",
@@ -14,13 +14,13 @@ export const LIVE_POSTINGS_DATA = {
     },
     "memurlar": {
       "name": "Memurlar.net KPSS & Kamu (12 Kategori)",
-      "count": 93,
+      "count": 98,
       "status": "ONLINE",
       "url": "https://ilan.memurlar.net/"
     },
     "resmiGazete": {
       "name": "T.C. Resmi Gazete (Son 4 Sayı)",
-      "count": 57,
+      "count": 60,
       "status": "ONLINE",
       "url": "https://www.resmigazete.gov.tr/"
     },
@@ -1390,6 +1390,131 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Eskişehir Espark personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
+      "id": "memurlar-86785",
+      "title": "Ege Üniversitesi Öğretim Elemanı Alım İlanı",
+      "institution": "Ege Üniversitesi",
+      "institutionCode": "EGENIVER",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86785/ege-universitesi-ogretim-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Ege Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86784",
+      "title": "Boğaziçi Üniversitesi Öğretim Elemanı Alım İlanı",
+      "institution": "Boğaziçi Üniversitesi",
+      "institutionCode": "BOAZII",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86784/bogazici-universitesi-ogretim-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Boğaziçi Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86783",
+      "title": "Bolu Abant İzzet Baysal Üniversitesi Öğretim Üyesi Alım İlanı",
+      "institution": "Bolu Abant İzzet Baysal Üniversitesi",
+      "institutionCode": "BOLUABANT",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Bolu"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86783/bolu-abant-izzet-baysal-universitesi-ogretim-uyesi-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Bolu Abant İzzet Baysal Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
       "id": "memurlar-86776",
       "title": "Pamukkale Üniversitesi Öğretim Üyesi Alım İlanı",
       "institution": "Pamukkale Üniversitesi",
@@ -1472,131 +1597,6 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Ege Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86760",
-      "title": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı",
-      "institution": "Tarsus Üniversitesi",
-      "institutionCode": "TARSUSNI",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86760/tarsus-universitesi-ogretim-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Tarsus Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86759",
-      "title": "Bitlis Eren Üniversitesi Öğretim Elemanı Alım İlanı",
-      "institution": "Bitlis Eren Üniversitesi",
-      "institutionCode": "BITLISERE",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Bitlis"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86759/bitlis-eren-universitesi-ogretim-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Bitlis Eren Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86757",
-      "title": "Akdeniz Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-      "institution": "Akdeniz Üniversitesi",
-      "institutionCode": "AKDENIZN",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86757/akdeniz-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Akdeniz Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86755",
@@ -1812,6 +1812,132 @@ export const LIVE_POSTINGS_DATA = {
       "description": "İstanbul Kalkınma personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
+      "id": "memurlar-86787",
+      "title": "Tarım ve Orman Bakanlığı 13 sözleşmeli personel alacak",
+      "institution": "Tarım ve Orman Bakanlığı",
+      "institutionCode": "TARMVEO",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86787/tarim-ve-orman-bakanligi-13-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Tarım ve Orman Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86782",
+      "title": "Galatasaray Üniversitesi 1 sözleşmeli personel alacak",
+      "institution": "Galatasaray Üniversitesi",
+      "institutionCode": "GALATASARA",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86782/galatasaray-universitesi-1-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Galatasaray Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86780",
+      "title": "Strateji ve Bütçe Başkanlığı 7 sözleşmeli personel alacak",
+      "institution": "Strateji ve Bütçe Başkanlığı",
+      "institutionCode": "STRATEJIV",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86780/strateji-ve-butce-baskanligi-7-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Strateji ve Bütçe Başkanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
       "id": "memurlar-86777",
       "title": "Malatya Doğanyol Belediyesi 2 sözleşmeli personel alacak",
       "institution": "Malatya Doğanyol Belediyesi",
@@ -1897,10 +2023,10 @@ export const LIVE_POSTINGS_DATA = {
       "description": "İŞKUR 11 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86741",
-      "title": "Karabağlar Belediyesi 2 sözleşmeli personel alacak",
-      "institution": "Karabağlar Belediyesi",
-      "institutionCode": "KARABALAR",
+      "id": "memurlar-86788",
+      "title": "Akhisar Belediyesi 1 Memur Alacak",
+      "institution": "Akhisar Belediyesi",
+      "institutionCode": "AKHISARBE",
       "logo": "🏢",
       "tier": "university",
       "category": "Belediye & Yerel Yönetim",
@@ -1920,7 +2046,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86741/karabaglar-belediyesi-2-sozlesmeli-personel-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86788/akhisar-belediyesi-1-memur-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -1936,91 +2062,7 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Karabağlar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86721",
-      "title": "Türk Akreditasyon Kurumu 2 sözleşmeli personel alacak",
-      "institution": "Türk Akreditasyon Kurumu",
-      "institutionCode": "TRKAKRED",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86721/turk-akreditasyon-kurumu-2-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Türk Akreditasyon Kurumu personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86715",
-      "title": "Sayıştay 2 sözleşmeli personel alacak",
-      "institution": "Sayıştay 2",
-      "institutionCode": "SAYTAY2",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86715/sayistay-2-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Sayıştay 2 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Akhisar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86779",
@@ -2064,6 +2106,48 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Kırşehir Boztepe Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
+      "id": "memurlar-86741",
+      "title": "Karabağlar Belediyesi 2 sözleşmeli personel alacak",
+      "institution": "Karabağlar Belediyesi",
+      "institutionCode": "KARABALAR",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86741/karabaglar-belediyesi-2-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Karabağlar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
       "id": "memurlar-86712",
       "title": "Ankara Büyükşehir Belediyesi 5 Müfettiş Yardımcısı Alacak",
       "institution": "Ankara Büyükşehir Belediyesi",
@@ -2104,48 +2188,6 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Ankara Büyükşehir Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86690",
-      "title": "Keşan Belediyesi 2 memur alacak",
-      "institution": "Keşan Belediyesi",
-      "institutionCode": "KEANBELE",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 2,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86690/kesan-belediyesi-2-memur-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Keşan Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86771",
@@ -2355,140 +2397,13 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Niğde Bor Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86704",
-      "title": "TSE 17 Sözleşmeli Bilişim Personeli Alacak",
-      "institution": "TSE 17",
-      "institutionCode": "TSE17",
-      "logo": "💻",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Sözleşmeli Bilişim Personeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86704/tse-17-sozlesmeli-bilisim-personeli-alacak.html",
-      "qualificationCodes": [
-        "4531",
-        "4539",
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "TSE 17 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86702",
-      "title": "Düzce Üniversitesi 153 Sözleşmeli Personel Alacak",
-      "institution": "Düzce Üniversitesi",
-      "institutionCode": "DZCENIV",
+      "id": "memurlar-86786",
+      "title": "01:10 İstanbul Beykent Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+      "institution": "01:10 İstanbul",
+      "institutionCode": "0110STA",
       "logo": "🎓",
       "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Düzce"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86702/duzce-universitesi-153-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Düzce Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86701",
-      "title": "Milli Saraylar 158 sözleşmeli personel alacak",
-      "institution": "Milli Saraylar",
-      "institutionCode": "MILLISARA",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86701/milli-saraylar-158-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Milli Saraylar personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86695",
-      "title": "İstanbul Teknik Üniversitesi 25 sözleşmeli personel alacak",
-      "institution": "İstanbul Teknik Üniversitesi",
-      "institutionCode": "STANBULT",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Eğitim & Akademi",
       "quota": 1,
       "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
@@ -2504,7 +2419,7 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86695/istanbul-teknik-universitesi-25-sozlesmeli-personel-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86786/istanbul-beykent-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2520,13 +2435,13 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İstanbul Teknik Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "01:10 İstanbul personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86655",
-      "title": "BDDK, 15 Sözleşmeli Personel Alacak",
-      "institution": "BDDK, 15",
-      "institutionCode": "BDDK15",
+      "id": "memurlar-86765",
+      "title": "Erzurum Ejder Kayak Merkezleri 2 İşçi Alacak",
+      "institution": "Erzurum Ejder",
+      "institutionCode": "ERZURUMEJ",
       "logo": "🏛️",
       "tier": "university",
       "category": "İdari & Büro",
@@ -2538,15 +2453,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Erzurum"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86655/bddk-15-sozlesmeli-personel-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86765/erzurum-ejder-kayak-merkezleri-2-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2562,268 +2476,17 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "BDDK, 15 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Erzurum Ejder personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86613",
-      "title": "Ardahan Posof Belediyesi 1 Sözleşmeli Personel Alacak",
-      "institution": "Ardahan Posof Belediyesi",
-      "institutionCode": "ARDAHANPO",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ardahan"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86613/ardahan-posof-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Ardahan Posof Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86515",
-      "title": "Atalan Belediyesi 1 Sözleşmeli Personel Alacak",
-      "institution": "Atalan Belediyesi",
-      "institutionCode": "ATALANBEL",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86515/atalan-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Atalan Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86400",
-      "title": "Gerede Belediyesi 1 sözleşmeli personel alacak",
-      "institution": "Gerede Belediyesi",
-      "institutionCode": "GEREDEBEL",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86400/gerede-belediyesi-1-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Gerede Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86691",
-      "title": "Ortahisar Belediyesi 1 Memur Alacak",
-      "institution": "Ortahisar Belediyesi",
-      "institutionCode": "ORTAHISAR",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86691/ortahisar-belediyesi-1-memur-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Ortahisar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86689",
-      "title": "Sarıidris Belediyesi 1 memur alacak",
-      "institution": "Sarıidris Belediyesi",
-      "institutionCode": "SARIDRIS",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86689/sariidris-belediyesi-1-memur-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Sarıidris Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86470",
-      "title": "Çeltik Belediyesi 2 Memur Alacak",
-      "institution": "Çeltik Belediyesi",
-      "institutionCode": "ELTIKBEL",
-      "logo": "🏢",
-      "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 2,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86470/celtik-belediyesi-2-memur-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Çeltik Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86469",
-      "title": "İETT 44 Memur Alacak",
-      "institution": "İETT 44",
-      "institutionCode": "ETT44",
+      "id": "memurlar-86764",
+      "title": "Denizli Pamukkale Personel AŞ. 12 İşçi Alacak",
+      "institution": "Denizli Pamukkale",
+      "institutionCode": "DENIZLIPA",
       "logo": "🏛️",
       "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 44,
+      "category": "İdari & Büro",
+      "quota": 1,
       "educationLevel": "Lisans",
       "kpssScoreTypes": [
         "KPSS P3"
@@ -2831,15 +2494,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Denizli"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86469/iett-44-memur-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86764/denizli-pamukkale-personel-as-12-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2852,16 +2514,57 @@ export const LIVE_POSTINGS_DATA = {
         "KPSS asgari taban puanı: 70"
       ],
       "status": "Aktif",
-      "featured": true,
+      "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "İETT 44 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Denizli Pamukkale personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86425",
-      "title": "Çukurkuyu Belediyesi 1 Memur Alacak",
-      "institution": "Çukurkuyu Belediyesi",
-      "institutionCode": "UKURKUYU",
+      "id": "memurlar-86761",
+      "title": "Kocaeli Derince Personel Anonim Geçici 2 İşçi Alacak",
+      "institution": "Kocaeli Derince",
+      "institutionCode": "KOCAELIDE",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Kocaeli"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86761/kocaeli-derince-personel-anonim-gecici-2-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Kocaeli Derince personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86763",
+      "title": "Şanlıurfa Ceylanpınar Belediyesi 10 İşçi Alacak",
+      "institution": "Şanlıurfa Ceylanpınar Belediyesi",
+      "institutionCode": "ANLURFA",
       "logo": "🏢",
       "tier": "university",
       "category": "Belediye & Yerel Yönetim",
@@ -2873,15 +2576,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Şanlıurfa"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86425/cukurkuyu-belediyesi-1-memur-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86763/sanliurfa-ceylanpinar-belediyesi-10-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2897,16 +2599,16 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Çukurkuyu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Şanlıurfa Ceylanpınar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86375",
-      "title": "Mucur Belediyesi 1 Memur Alacak",
-      "institution": "Mucur Belediyesi",
-      "institutionCode": "MUCURBELE",
-      "logo": "🏢",
+      "id": "memurlar-86762",
+      "title": "Afyonkarahisar İSJET 1 İşçi Alacak",
+      "institution": "Afyonkarahisar İSJET",
+      "institutionCode": "AFYONKARAH",
+      "logo": "🏛️",
       "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
+      "category": "İdari & Büro",
       "quota": 1,
       "educationLevel": "Lisans",
       "kpssScoreTypes": [
@@ -2915,15 +2617,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Afyonkarahisar"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86375/mucur-belediyesi-1-memur-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86762/afyonkarahisar-isjet-1-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2939,24 +2640,23 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Mucur Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Afyonkarahisar İSJET personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86346",
-      "title": "Pursaklar Belediyesi 9 zabıta memuru alacak",
-      "institution": "Pursaklar Belediyesi",
-      "institutionCode": "PURSAKLAR",
-      "logo": "⚖️",
+      "id": "memurlar-86760",
+      "title": "Tarsus Üniversitesi Öğretim Elemanı Alım İlanı",
+      "institution": "Tarsus Üniversitesi",
+      "institutionCode": "TARSUSNI",
+      "logo": "🎓",
       "tier": "university",
-      "category": "Belediye & Yerel Yönetim",
-      "quota": 9,
-      "educationLevel": "Ön Lisans & Lisans",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
       "kpssScoreTypes": [
-        "KPSS P93",
-        "KPSS P3"
+        "ALES / KPSS P3"
       ],
-      "minScore": 65,
-      "contractType": "Kadrolu Memur (657)",
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
       "cities": [
         "Ankara",
         "İstanbul"
@@ -2966,24 +2666,188 @@ export const LIVE_POSTINGS_DATA = {
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86346/pursaklar-belediyesi-9-zabita-memuru-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86760/tarsus-universitesi-ogretim-elemani-alim-ilani.html",
       "qualificationCodes": [
-        "3001",
         "4001"
       ],
       "requiredDepartments": [
-        "Ön Lisans & Lisans Mezuniyeti",
+        "Lisans & Lisansüstü Mezuniyeti",
         "İlgili Bölümler"
       ],
       "specialConditions": [
         "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 65"
+        "KPSS asgari taban puanı: 70"
       ],
       "status": "Aktif",
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Pursaklar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Tarsus Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86759",
+      "title": "Bitlis Eren Üniversitesi Öğretim Elemanı Alım İlanı",
+      "institution": "Bitlis Eren Üniversitesi",
+      "institutionCode": "BITLISERE",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Bitlis"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86759/bitlis-eren-universitesi-ogretim-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Bitlis Eren Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86757",
+      "title": "Akdeniz Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+      "institution": "Akdeniz Üniversitesi",
+      "institutionCode": "AKDENIZN",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86757/akdeniz-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Akdeniz Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86756",
+      "title": "Ağrı İbrahim Çeçen Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+      "institution": "Ağrı İbrahim Çeçen Üniversitesi",
+      "institutionCode": "ARBRAH",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ağrı"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86756/agri-ibrahim-cecen-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Ağrı İbrahim Çeçen Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86750",
+      "title": "İzmir Bakırçay Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
+      "institution": "İzmir Bakırçay Üniversitesi",
+      "institutionCode": "ZMIRBAK",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "İzmir"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86750/izmir-bakircay-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İzmir Bakırçay Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86685",
@@ -3201,6 +3065,969 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Özelleştirme İdaresi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
+      "id": "memurlar-86721",
+      "title": "Türk Akreditasyon Kurumu 2 sözleşmeli personel alacak",
+      "institution": "Türk Akreditasyon Kurumu",
+      "institutionCode": "TRKAKRED",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86721/turk-akreditasyon-kurumu-2-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Türk Akreditasyon Kurumu personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86715",
+      "title": "Sayıştay 2 sözleşmeli personel alacak",
+      "institution": "Sayıştay 2",
+      "institutionCode": "SAYTAY2",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86715/sayistay-2-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Sayıştay 2 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86704",
+      "title": "TSE 17 Sözleşmeli Bilişim Personeli Alacak",
+      "institution": "TSE 17",
+      "institutionCode": "TSE17",
+      "logo": "💻",
+      "tier": "university",
+      "category": "Bilişim & Yazılım",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Sözleşmeli Bilişim Personeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86704/tse-17-sozlesmeli-bilisim-personeli-alacak.html",
+      "qualificationCodes": [
+        "4531",
+        "4539",
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "TSE 17 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86702",
+      "title": "Düzce Üniversitesi 153 Sözleşmeli Personel Alacak",
+      "institution": "Düzce Üniversitesi",
+      "institutionCode": "DZCENIV",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Düzce"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86702/duzce-universitesi-153-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Düzce Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86690",
+      "title": "Keşan Belediyesi 2 memur alacak",
+      "institution": "Keşan Belediyesi",
+      "institutionCode": "KEANBELE",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 2,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86690/kesan-belediyesi-2-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Keşan Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86691",
+      "title": "Ortahisar Belediyesi 1 Memur Alacak",
+      "institution": "Ortahisar Belediyesi",
+      "institutionCode": "ORTAHISAR",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86691/ortahisar-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Ortahisar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86689",
+      "title": "Sarıidris Belediyesi 1 memur alacak",
+      "institution": "Sarıidris Belediyesi",
+      "institutionCode": "SARIDRIS",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86689/sariidris-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Sarıidris Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86613",
+      "title": "Ardahan Posof Belediyesi 1 Sözleşmeli Personel Alacak",
+      "institution": "Ardahan Posof Belediyesi",
+      "institutionCode": "ARDAHANPO",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ardahan"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86613/ardahan-posof-belediyesi-1-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Ardahan Posof Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86515",
+      "title": "Atalan Belediyesi 1 Sözleşmeli Personel Alacak",
+      "institution": "Atalan Belediyesi",
+      "institutionCode": "ATALANBEL",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86515/atalan-belediyesi-1-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Atalan Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-48143",
+      "title": "Afyonkarahisar ihsaniye İhsan Ören Taşımacılık Geçici 5 İşçi Alacak",
+      "institution": "Afyonkarahisar ihsaniye",
+      "institutionCode": "AFYONKARAH",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Afyonkarahisar"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/48143/afyonkarahisar-ihsaniye-ihsan-oren-tasimacilik-gecici-5-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Afyonkarahisar ihsaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-46813",
+      "title": "Bursa Osmangazi Belediyesi 3 İşçi Alacak",
+      "institution": "Bursa Osmangazi Belediyesi",
+      "institutionCode": "BURSAOSMA",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Bursa"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46813/bursa-osmangazi-belediyesi-3-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Bursa Osmangazi Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-46209",
+      "title": "Antalya Kaş Likya Turizm Geçici 76 İşçi Alacak",
+      "institution": "Antalya Kaş",
+      "institutionCode": "ANTALYAKA",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Antalya"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46209/antalya-kas-likya-turizm-gecici-76-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Antalya Kaş personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-46095",
+      "title": "Muğla Dal-Bel Günübirlik Turizm Geçici 10 İşçi Alacak",
+      "institution": "Muğla Dal-Bel",
+      "institutionCode": "MULADAL",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Muğla"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46095/mugla-dal-bel-gunubirlik-turizm-gecici-10-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Muğla Dal-Bel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-42149",
+      "title": "Karacabey Belediyesi Geçici İşçi Alım İlanı",
+      "institution": "Karacabey Belediyesi",
+      "institutionCode": "KARACABEY",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/42149/karacabey-belediyesi-gecici-isci-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Karacabey Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86701",
+      "title": "Milli Saraylar 158 sözleşmeli personel alacak",
+      "institution": "Milli Saraylar",
+      "institutionCode": "MILLISARA",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86701/milli-saraylar-158-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Milli Saraylar personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86695",
+      "title": "İstanbul Teknik Üniversitesi 25 sözleşmeli personel alacak",
+      "institution": "İstanbul Teknik Üniversitesi",
+      "institutionCode": "STANBULT",
+      "logo": "🎓",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86695/istanbul-teknik-universitesi-25-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İstanbul Teknik Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86655",
+      "title": "BDDK, 15 Sözleşmeli Personel Alacak",
+      "institution": "BDDK, 15",
+      "institutionCode": "BDDK15",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86655/bddk-15-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "BDDK, 15 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86400",
+      "title": "Gerede Belediyesi 1 sözleşmeli personel alacak",
+      "institution": "Gerede Belediyesi",
+      "institutionCode": "GEREDEBEL",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86400/gerede-belediyesi-1-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Gerede Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86470",
+      "title": "Çeltik Belediyesi 2 Memur Alacak",
+      "institution": "Çeltik Belediyesi",
+      "institutionCode": "ELTIKBEL",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 2,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86470/celtik-belediyesi-2-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Çeltik Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86469",
+      "title": "İETT 44 Memur Alacak",
+      "institution": "İETT 44",
+      "institutionCode": "ETT44",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 44,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86469/iett-44-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İETT 44 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86425",
+      "title": "Çukurkuyu Belediyesi 1 Memur Alacak",
+      "institution": "Çukurkuyu Belediyesi",
+      "institutionCode": "UKURKUYU",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86425/cukurkuyu-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Çukurkuyu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86375",
+      "title": "Mucur Belediyesi 1 Memur Alacak",
+      "institution": "Mucur Belediyesi",
+      "institutionCode": "MUCURBELE",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86375/mucur-belediyesi-1-memur-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Mucur Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86346",
+      "title": "Pursaklar Belediyesi 9 zabıta memuru alacak",
+      "institution": "Pursaklar Belediyesi",
+      "institutionCode": "PURSAKLAR",
+      "logo": "⚖️",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 9,
+      "educationLevel": "Ön Lisans & Lisans",
+      "kpssScoreTypes": [
+        "KPSS P93",
+        "KPSS P3"
+      ],
+      "minScore": 65,
+      "contractType": "Kadrolu Memur (657)",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86346/pursaklar-belediyesi-9-zabita-memuru-alacak.html",
+      "qualificationCodes": [
+        "3001",
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Ön Lisans & Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 65"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Pursaklar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
       "id": "memurlar-85834",
       "title": "Gelir İdaresi 860 gelir uzman yardımcısı alacak",
       "institution": "Gelir İdaresi",
@@ -3242,47 +4069,6 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Gelir İdaresi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-29967",
-      "title": "15:46 Osmaniye Yağlı Tohumlar Araş. İst. Geçici İşçi Alım İlanı",
-      "institution": "15:46 Osmaniye",
-      "institutionCode": "1546OSMA",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "Bakanlık & Uzmanlık",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Osmaniye"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/29967/osmaniye-yagli-tohumlar-aras-ist-gecici-isci-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "15:46 Osmaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86708",
@@ -3371,211 +4157,6 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Jandarma Genel Komutanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86765",
-      "title": "Erzurum Ejder Kayak Merkezleri 2 İşçi Alacak",
-      "institution": "Erzurum Ejder",
-      "institutionCode": "ERZURUMEJ",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Erzurum"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86765/erzurum-ejder-kayak-merkezleri-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Erzurum Ejder personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86764",
-      "title": "Denizli Pamukkale Personel AŞ. 12 İşçi Alacak",
-      "institution": "Denizli Pamukkale",
-      "institutionCode": "DENIZLIPA",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Denizli"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86764/denizli-pamukkale-personel-as-12-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Denizli Pamukkale personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86761",
-      "title": "Kocaeli Derince Personel Anonim Geçici 2 İşçi Alacak",
-      "institution": "Kocaeli Derince",
-      "institutionCode": "KOCAELIDE",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Kocaeli"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86761/kocaeli-derince-personel-anonim-gecici-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Kocaeli Derince personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86763",
-      "title": "Şanlıurfa Ceylanpınar Belediyesi 10 İşçi Alacak",
-      "institution": "Şanlıurfa Ceylanpınar Belediyesi",
-      "institutionCode": "ANLURFA",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Şanlıurfa"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86763/sanliurfa-ceylanpinar-belediyesi-10-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Şanlıurfa Ceylanpınar Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86762",
-      "title": "Afyonkarahisar İSJET 1 İşçi Alacak",
-      "institution": "Afyonkarahisar İSJET",
-      "institutionCode": "AFYONKARAH",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Afyonkarahisar"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86762/afyonkarahisar-isjet-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Afyonkarahisar İSJET personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86752",
@@ -3992,14 +4573,14 @@ export const LIVE_POSTINGS_DATA = {
       "description": "25 Aralık personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-48143",
-      "title": "2019 Afyonkarahisar ihsaniye İhsan Ören Taşımacılık Geçici 5 İşçi Alacak",
-      "institution": "2019 Afyonkarahisar",
-      "institutionCode": "2019AFYON",
+      "id": "memurlar-29967",
+      "title": "2014 Osmaniye Yağlı Tohumlar Araş. İst. Geçici İşçi Alım İlanı",
+      "institution": "2014 Osmaniye",
+      "institutionCode": "2014OSMAN",
       "logo": "🏛️",
       "tier": "lise",
       "category": "İşçi & Destek Hizmetleri",
-      "quota": 2019,
+      "quota": 2014,
       "educationLevel": "Lisans",
       "kpssScoreTypes": [
         "KPSS P3"
@@ -4007,14 +4588,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Afyonkarahisar"
+        "Osmaniye"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/48143/afyonkarahisar-ihsaniye-ihsan-oren-tasimacilik-gecici-5-isci-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/29967/osmaniye-yagli-tohumlar-aras-ist-gecici-isci-alim-ilani.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -4030,172 +4611,7 @@ export const LIVE_POSTINGS_DATA = {
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "2019 Afyonkarahisar personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-46813",
-      "title": "27 Haziran 2019 Bursa Osmangazi Belediyesi 3 İşçi Alacak",
-      "institution": "27 Haziran",
-      "institutionCode": "27HAZIRAN",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 27,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Bursa"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46813/bursa-osmangazi-belediyesi-3-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "27 Haziran personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-46209",
-      "title": "21 Mayıs 2019 Antalya Kaş Likya Turizm Geçici 76 İşçi Alacak",
-      "institution": "21 Mayıs",
-      "institutionCode": "21MAYS",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 21,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Antalya"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46209/antalya-kas-likya-turizm-gecici-76-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "21 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-46095",
-      "title": "15 Mayıs 2019 Muğla Dal-Bel Günübirlik Turizm Geçici 10 İşçi Alacak",
-      "institution": "15 Mayıs",
-      "institutionCode": "15MAYS",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 15,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Muğla"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46095/mugla-dal-bel-gunubirlik-turizm-gecici-10-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "15 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-42149",
-      "title": "25 Mayıs 2018 Karacabey Belediyesi Geçici İşçi Alım İlanı",
-      "institution": "25 Mayıs",
-      "institutionCode": "25MAYS",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 25,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/42149/karacabey-belediyesi-gecici-isci-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "25 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "2014 Osmaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-50532",
@@ -4237,88 +4653,6 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "29 Ocak personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86756",
-      "title": "Ağrı İbrahim Çeçen Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-      "institution": "Ağrı İbrahim Çeçen Üniversitesi",
-      "institutionCode": "ARBRAH",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ağrı"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86756/agri-ibrahim-cecen-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Ağrı İbrahim Çeçen Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86750",
-      "title": "İzmir Bakırçay Üniversitesi Öğretim Üyesi ve Elemanı Alım İlanı",
-      "institution": "İzmir Bakırçay Üniversitesi",
-      "institutionCode": "ZMIRBAK",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "İzmir"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86750/izmir-bakircay-universitesi-ogretim-uyesi-ve-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "İzmir Bakırçay Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86749",
@@ -4736,132 +5070,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Aksaray Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86703",
-      "title": "Sağlık Bilimleri Üniversitesi Öğretim Üyesi Alım İlanı",
-      "institution": "Sağlık Bilimleri Üniversitesi",
-      "institutionCode": "SALKBIL",
-      "logo": "🏥",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86703/saglik-bilimleri-universitesi-ogretim-uyesi-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Sağlık Bilimleri Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86696",
-      "title": "Ondokuz Mayıs Üniversitesi Öğretim Üyesi Alım İlanı",
-      "institution": "Ondokuz Mayıs Üniversitesi",
-      "institutionCode": "ONDOKUZMA",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86696/ondokuz-mayis-universitesi-ogretim-uyesi-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Ondokuz Mayıs Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86693",
-      "title": "Necmettin Erbakan Üniversitesi Öğretim Elemanı Alım İlanı",
-      "institution": "Necmettin Erbakan Üniversitesi",
-      "institutionCode": "NECMETTIN",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86693/necmettin-erbakan-universitesi-ogretim-elemani-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Necmettin Erbakan Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86694",
       "title": "Orta Karadeniz Kalkınma Ajansı 5 Personel Alacak",
       "institution": "Orta Karadeniz",
@@ -5072,6 +5280,740 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "30 Aralık personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "rg-20261022-4-1",
+      "title": "Cumhurbaşkanlığı Strateji ve Bütçe Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Cumhurbaşkanlığı Strateji ve Bütçe",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-1.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-2",
+      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-2.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-3",
+      "title": "Milli Eğitim Bakanlığı Destek Hizmetleri Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Milli Eğitim Bakanlığı Destek Hizmetleri",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-3.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-4",
+      "title": "Milli Savunma Bakanlığı Makine ve Kimya Endüstri A.Ş. Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Milli Savunma Bakanlığı Makine ve Kimya Endüstri A.Ş.",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-4.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-5",
+      "title": "Tarım ve Orman Bakanlığı Orman Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Tarım ve Orman Bakanlığı Orman",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-5.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-6",
+      "title": "Galatasaray Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Galatasaray Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-6.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-7",
+      "title": "KTO Karatay Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "KTO Karatay Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-7.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-8",
+      "title": "Adalet Bakanlığından: Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Adalet Bakanlığından:",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Adalet & Hukuk",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-8.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-9",
+      "title": "Muş İli Elmakaya Belediye Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Muş İli Elmakaya Belediye",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Muş"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-9.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-10",
+      "title": "Isparta İli Sarıidris Belediye Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Isparta İli Sarıidris Belediye",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Isparta"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-10.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-11",
+      "title": "Süleyman Demirel Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Süleyman Demirel Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-11.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-12",
+      "title": "Kültür ve Turizm Bakanlığı Vakıflar Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Kültür ve Turizm Bakanlığı Vakıflar",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-12.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-13",
+      "title": "Enerji ve Tabii Kaynaklar Bakanlığı Maden ve Petrol İşleri Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Enerji ve Tabii Kaynaklar Bakanlığı Maden ve Petrol İşleri",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-13.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-14",
+      "title": "Boğaziçi Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Boğaziçi Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-14.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-15",
+      "title": "Bolu Abant İzzet Baysal Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Bolu Abant İzzet Baysal Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Bolu"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-15.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-16",
+      "title": "Ege Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Ege Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-16.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-17",
+      "title": "İstanbul Beykent Üniversitesi Personel Alım İlanı (Resmi Gazete)",
+      "institution": "İstanbul Beykent Üniversitesi",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "Eğitim & Akademi",
+      "quota": 5,
+      "educationLevel": "Lisans & Lisansüstü",
+      "kpssScoreTypes": [
+        "ALES / KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Akademik Kadro",
+      "cities": [
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-17.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans & Lisansüstü Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
+    },
+    {
+      "id": "rg-20261022-4-18",
+      "title": "Kültür ve Turizm Bakanlığından: Personel Alım İlanı (Resmi Gazete)",
+      "institution": "Kültür ve Turizm Bakanlığından:",
+      "institutionCode": "RESMIGAZETE",
+      "logo": "📜",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 5,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-22",
+      "deadline": "2026-10-31",
+      "dateRangeDisplay": "Resmi Gazete Sayısı",
+      "sourceId": "ilan-gov-tr",
+      "sourceName": "T.C. Resmi Gazete",
+      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261022-4-18.pdf",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti"
+      ],
+      "specialConditions": [
+        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
     },
     {
       "id": "rg-20261021-4-1",
@@ -6767,618 +7709,6 @@ export const LIVE_POSTINGS_DATA = {
       "sourceId": "ilan-gov-tr",
       "sourceName": "T.C. Resmi Gazete",
       "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261018-4-5.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-1",
-      "title": "Türkiye Büyük Millet Meclisi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Türkiye Büyük Millet Meclisi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-1.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-2",
-      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yerel Yönetimler",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-2.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-3",
-      "title": "İçişleri Bakanlığı İller İdaresi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "İçişleri Bakanlığı İller İdaresi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-3.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-4",
-      "title": "İçişleri Bakanlığı Strateji Geliştirme Başkanlığı YİKOB Daire Personel Alım İlanı (Resmi Gazete)",
-      "institution": "İçişleri Bakanlığı Strateji Geliştirme Başkanlığı YİKOB Daire",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-4.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-5",
-      "title": "Tarım ve Orman Bakanlığı Orman Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Tarım ve Orman Bakanlığı Orman",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-5.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-6",
-      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı İşleri Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Yapı İşleri",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-6.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-7",
-      "title": "Adalet Bakanlığından: Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Adalet Bakanlığından:",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "Adalet & Hukuk",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-7.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-8",
-      "title": "Tarsus Üniversitesi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Tarsus Üniversitesi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 5,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-8.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-9",
-      "title": "Aksaray Üniversitesi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Aksaray Üniversitesi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 5,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Aksaray"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-9.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-10",
-      "title": "Enerji ve Tabii Kaynaklar Bakanlığı Maden ve Petrol İşleri Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Enerji ve Tabii Kaynaklar Bakanlığı Maden ve Petrol İşleri",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-10.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-11",
-      "title": "Türkiye Barolar Birliği Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Türkiye Barolar Birliği",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-11.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-12",
-      "title": "Bursa Uludağ Üniversitesi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Bursa Uludağ Üniversitesi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 5,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Bursa"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-12.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-13",
-      "title": "Ulaştırma ve Altyapı Bakanlığı Karayolları Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Ulaştırma ve Altyapı Bakanlığı Karayolları",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-13.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-14",
-      "title": "İstanbul Esenyurt Üniversitesi Personel Alım İlanı (Resmi Gazete)",
-      "institution": "İstanbul Esenyurt Üniversitesi",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 5,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-14.pdf",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti"
-      ],
-      "specialConditions": [
-        "657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "T.C. Resmi Gazete Çeşitli İlanlar bölümünde yayımlanan resmi kamu personel alımı duyurusudur."
-    },
-    {
-      "id": "rg-20261017-4-15",
-      "title": "Kültür ve Turizm Bakanlığından: Personel Alım İlanı (Resmi Gazete)",
-      "institution": "Kültür ve Turizm Bakanlığından:",
-      "institutionCode": "RESMIGAZETE",
-      "logo": "📜",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-17",
-      "deadline": "2026-10-31",
-      "dateRangeDisplay": "Resmi Gazete Sayısı",
-      "sourceId": "ilan-gov-tr",
-      "sourceName": "T.C. Resmi Gazete",
-      "sourceUrl": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261017-4-15.pdf",
       "qualificationCodes": [
         "4001"
       ],
