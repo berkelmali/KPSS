@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-25T09:03:53.905Z",
-  "lastUpdatedFormatted": "25 Ekim 2026 09:03 (Canlı Veri Akışı)",
-  "totalCount": 191,
-  "universityCount": 168,
+  "timestamp": "2026-10-25T14:13:09.527Z",
+  "lastUpdatedFormatted": "25 Ekim 2026 14:13 (Canlı Veri Akışı)",
+  "totalCount": 190,
+  "universityCount": 167,
   "liseCount": 23,
   "sources": {
     "sbb": {
@@ -13,7 +13,7 @@
     },
     "memurlar": {
       "name": "Memurlar.net KPSS & Kamu (12 Kategori)",
-      "count": 96,
+      "count": 95,
       "status": "ONLINE",
       "url": "https://ilan.memurlar.net/"
     },
@@ -3190,49 +3190,6 @@
       "isLive": true,
       "verifiedOfficial": true,
       "description": "TMSF 75 personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86684",
-      "title": "Vakıflar Genel Müdürlüğü 5 Uzman Yardımcısı Alacak",
-      "institution": "Vakıflar Genel Müdürlüğü",
-      "institutionCode": "VAKFLARG",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "Bakanlık & Uzmanlık",
-      "quota": 5,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3",
-        "KPSS A Grubu (P1-P48)"
-      ],
-      "minScore": 75,
-      "contractType": "Kariyer Meslek (A Grubu)",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86684/vakiflar-genel-mudurlugu-5-uzman-yardimcisi-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 75"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Vakıflar Genel Müdürlüğü personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86663",
