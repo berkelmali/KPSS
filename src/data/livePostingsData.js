@@ -1,7 +1,7 @@
-// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-25T14:13:09.537Z)
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-10-25T18:51:36.169Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-10-25T14:13:09.527Z",
-  "lastUpdatedFormatted": "25 Ekim 2026 14:13 (Canlı Veri Akışı)",
+  "timestamp": "2026-10-25T18:51:36.109Z",
+  "lastUpdatedFormatted": "25 Ekim 2026 18:51 (Canlı Veri Akışı)",
   "totalCount": 190,
   "universityCount": 167,
   "liseCount": 23,
