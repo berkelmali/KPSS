@@ -1,10 +1,10 @@
-// Otomatik oluşturulan canlı veri deposu (Sync: 2026-11-06T11:58:15.393Z)
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-11-06T21:25:15.018Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-11-06T11:58:15.380Z",
-  "lastUpdatedFormatted": "6 Kasım 2026 11:58 (Canlı Veri Akışı)",
-  "totalCount": 194,
-  "universityCount": 176,
-  "liseCount": 18,
+  "timestamp": "2026-11-06T21:25:15.001Z",
+  "lastUpdatedFormatted": "6 Kasım 2026 21:25 (Canlı Veri Akışı)",
+  "totalCount": 183,
+  "universityCount": 173,
+  "liseCount": 10,
   "sources": {
     "sbb": {
       "name": "T.C. SBB Kamu İlan Portalı",
@@ -14,7 +14,7 @@ export const LIVE_POSTINGS_DATA = {
     },
     "memurlar": {
       "name": "Memurlar.net KPSS & Kamu (12 Kategori)",
-      "count": 101,
+      "count": 90,
       "status": "ONLINE",
       "url": "https://ilan.memurlar.net/"
     },
@@ -1307,47 +1307,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "İzmir Bakırçay personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86886",
-      "title": "İstanbul Personel Yönetim Aş. 49 İşçi Alacak",
-      "institution": "İstanbul Personel",
-      "institutionCode": "STANBULP",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86886/istanbul-personel-yonetim-as-49-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "İstanbul Personel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86882",
       "title": "Edirne Enez Belediyesi 10 İşçi Alacak",
       "institution": "Edirne Enez Belediyesi",
@@ -1387,6 +1346,47 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Edirne Enez Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86880",
+      "title": "Adana Ceyhan SYDV 1 İşçi Alacak",
+      "institution": "Adana Ceyhan",
+      "institutionCode": "ADANACEYH",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Adana"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86880/adana-ceyhan-sydv-1-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Adana Ceyhan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86911",
@@ -2394,10 +2394,10 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Aksaray Gülağaç Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86883",
-      "title": "Kayseri Falahiye İmar Geçici 1 İşçi Alacak",
-      "institution": "Kayseri Falahiye",
-      "institutionCode": "KAYSERIFA",
+      "id": "memurlar-86874",
+      "title": "Aydın Kuşadası Arya Turistik Geçici 2 İşçi Alacak",
+      "institution": "Aydın Kuşadası",
+      "institutionCode": "AYDNKUA",
       "logo": "🏛️",
       "tier": "university",
       "category": "İdari & Büro",
@@ -2409,14 +2409,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Kayseri"
+        "Aydın"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86883/kayseri-falahiye-imar-gecici-1-isci-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86874/aydin-kusadasi-arya-turistik-gecici-2-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -2432,7 +2432,7 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Kayseri Falahiye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Aydın Kuşadası personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86910",
@@ -2476,88 +2476,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "01:40 İstanbul personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86881",
-      "title": "Zonguldak Çaybel İmar Geçici 1 İşçi Alacak",
-      "institution": "Zonguldak Çaybel",
-      "institutionCode": "ZONGULDAK",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Zonguldak"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86881/zonguldak-caybel-imar-gecici-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Zonguldak Çaybel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86880",
-      "title": "Adana Ceyhan SYDV 1 İşçi Alacak",
-      "institution": "Adana Ceyhan",
-      "institutionCode": "ADANACEYH",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Adana"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86880/adana-ceyhan-sydv-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Adana Ceyhan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86879",
       "title": "Bursa Yıldırım SYDV 2 İşçi Alacak",
       "institution": "Bursa Yıldırım",
@@ -2599,47 +2517,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Bursa Yıldırım personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86878",
-      "title": "Manisa Besot 6 İşçi Alacak",
-      "institution": "Manisa Besot",
-      "institutionCode": "MANISABES",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Manisa"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86878/manisa-besot-6-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Manisa Besot personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86873",
       "title": "Kırşehir Akçakent SYDV 1 İşçi Alacak",
       "institution": "Kırşehir Akçakent",
@@ -2679,6 +2556,131 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Kırşehir Akçakent personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86828",
+      "title": "Adana İmamoğlu Belediyesi 2 İşçi Alacak",
+      "institution": "Adana İmamoğlu Belediyesi",
+      "institutionCode": "ADANAMAM",
+      "logo": "🏢",
+      "tier": "university",
+      "category": "Belediye & Yerel Yönetim",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Adana"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86828/adana-imamoglu-belediyesi-2-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Adana İmamoğlu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-66164",
+      "title": "Konya Şehir Hizmetleri 194 İşçi Alacak",
+      "institution": "Konya Şehir",
+      "institutionCode": "KONYAEHI",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Konya"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/66164/konya-sehir-hizmetleri-194-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Konya Şehir personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-65311",
+      "title": "İstanbul Bilişim ve Akıllı Kent Teknolojileri 2 İşçi Alacak",
+      "institution": "İstanbul Bilişim",
+      "institutionCode": "STANBULB",
+      "logo": "💻",
+      "tier": "university",
+      "category": "Bilişim & Yazılım",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "Sözleşmeli Bilişim Personeli",
+      "cities": [
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/65311/istanbul-bilisim-ve-akilli-kent-teknolojileri-2-isci-alacak.html",
+      "qualificationCodes": [
+        "4531",
+        "4539",
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "İstanbul Bilişim personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86904",
@@ -3014,48 +3016,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "İstanbul Kalkınma personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86853",
-      "title": "Mimar Sinan Güzel Sanatlar Üniversitesi 1 sözleşmeli personel alacak",
-      "institution": "Mimar Sinan Güzel Sanatlar Üniversitesi",
-      "institutionCode": "MIMARSINA",
-      "logo": "🎓",
-      "tier": "university",
-      "category": "Eğitim & Akademi",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86853/mimar-sinan-guzel-sanatlar-universitesi-1-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Mimar Sinan Güzel Sanatlar Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86849",
       "title": "YÖK 5 Sözleşmeli Personel Alacak",
       "institution": "YÖK 5",
@@ -3221,6 +3181,48 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "Milli Saraylar İdaresi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-86791",
+      "title": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak",
+      "institution": "Kültür ve Turizm Bakanlığı",
+      "institutionCode": "KLTRVE",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Ankara",
+        "İstanbul"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/86791/kultur-ve-turizm-bakanligi-162-sozlesmeli-personel-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Kültür ve Turizm Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86862",
@@ -3392,129 +3394,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "İzmir Karşıyaka Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86876",
-      "title": "Bartın Ulubel İmar 1 İşçi Alacak",
-      "institution": "Bartın Ulubel",
-      "institutionCode": "BARTNULU",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Bartın"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86876/bartin-ulubel-imar-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Bartın Ulubel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86874",
-      "title": "Aydın Kuşadası Arya Turistik Geçici 2 İşçi Alacak",
-      "institution": "Aydın Kuşadası",
-      "institutionCode": "AYDNKUA",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Aydın"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86874/aydin-kusadasi-arya-turistik-gecici-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Aydın Kuşadası personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86867",
-      "title": "Kayseri Felahiye İmar 1 İşçi Alacak",
-      "institution": "Kayseri Felahiye",
-      "institutionCode": "KAYSERIFE",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Kayseri"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86867/kayseri-felahiye-imar-1-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Kayseri Felahiye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-84194",
       "title": "Niğde Bor Belediyesi Geçici 50 İşçi Alacak",
       "institution": "Niğde Bor Belediyesi",
@@ -3597,55 +3476,13 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Afyonkarahisar ihsaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86792",
-      "title": "Marmara Üniversitesi 63 sözleşmeli personel alacak",
-      "institution": "Marmara Üniversitesi",
-      "institutionCode": "MARMARAN",
-      "logo": "🎓",
+      "id": "memurlar-46813",
+      "title": "Bursa Osmangazi Belediyesi 3 İşçi Alacak",
+      "institution": "Bursa Osmangazi Belediyesi",
+      "institutionCode": "BURSAOSMA",
+      "logo": "🏢",
       "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86792/marmara-universitesi-63-sozlesmeli-personel-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Marmara Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86791",
-      "title": "Kültür ve Turizm Bakanlığı 162 sözleşmeli personel alacak",
-      "institution": "Kültür ve Turizm Bakanlığı",
-      "institutionCode": "KLTRVE",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
+      "category": "Belediye & Yerel Yönetim",
       "quota": 1,
       "educationLevel": "Lisans",
       "kpssScoreTypes": [
@@ -3654,15 +3491,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Bursa"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86791/kultur-ve-turizm-bakanligi-162-sozlesmeli-personel-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46813/bursa-osmangazi-belediyesi-3-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -3678,13 +3514,13 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Kültür ve Turizm Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Bursa Osmangazi Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86787",
-      "title": "Tarım ve Orman Bakanlığı 13 sözleşmeli personel alacak",
-      "institution": "Tarım ve Orman Bakanlığı",
-      "institutionCode": "TARMVEO",
+      "id": "memurlar-46209",
+      "title": "Antalya Kaş Likya Turizm Geçici 76 İşçi Alacak",
+      "institution": "Antalya Kaş",
+      "institutionCode": "ANTALYAKA",
       "logo": "🏛️",
       "tier": "university",
       "category": "İdari & Büro",
@@ -3696,15 +3532,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Ankara",
-        "İstanbul"
+        "Antalya"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86787/tarim-ve-orman-bakanligi-13-sozlesmeli-personel-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46209/antalya-kas-likya-turizm-gecici-76-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -3720,7 +3555,48 @@ export const LIVE_POSTINGS_DATA = {
       "featured": false,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "Tarım ve Orman Bakanlığı personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "Antalya Kaş personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-46095",
+      "title": "Muğla Dal-Bel Günübirlik Turizm Geçici 10 İşçi Alacak",
+      "institution": "Muğla Dal-Bel",
+      "institutionCode": "MULADAL",
+      "logo": "🏛️",
+      "tier": "university",
+      "category": "İdari & Büro",
+      "quota": 1,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Muğla"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/46095/mugla-dal-bel-gunubirlik-turizm-gecici-10-isci-alacak.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": false,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "Muğla Dal-Bel personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-86777",
@@ -4140,255 +4016,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Sarıidris Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-86868",
-      "title": "Şile Belediyesi 3 İşçi Alacak",
-      "institution": "Şile Belediyesi",
-      "institutionCode": "ILEBELED",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Ankara",
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86868/sile-belediyesi-3-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Şile Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86863",
-      "title": "Antalya İnsan kaynakları 165 İşçi Alacak",
-      "institution": "Antalya İnsan",
-      "institutionCode": "ANTALYAN",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Antalya"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86863/antalya-insan-kaynaklari-165-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Antalya İnsan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86851",
-      "title": "Aydın Adnan Menderes Üniversitesi 8 İşçi Alacak",
-      "institution": "Aydın Adnan Menderes Üniversitesi",
-      "institutionCode": "AYDNADNA",
-      "logo": "🎓",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans & Lisansüstü",
-      "kpssScoreTypes": [
-        "ALES / KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Akademik Kadro",
-      "cities": [
-        "Aydın"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86851/aydin-adnan-menderes-universitesi-8-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans & Lisansüstü Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Aydın Adnan Menderes Üniversitesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-86828",
-      "title": "Adana İmamoğlu Belediyesi 2 İşçi Alacak",
-      "institution": "Adana İmamoğlu Belediyesi",
-      "institutionCode": "ADANAMAM",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Adana"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/86828/adana-imamoglu-belediyesi-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "Adana İmamoğlu Belediyesi personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-66164",
-      "title": "3 Haziran 2022 Konya Şehir Hizmetleri 194 İşçi Alacak",
-      "institution": "3 Haziran",
-      "institutionCode": "3HAZIRAN",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 3,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Konya"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/66164/konya-sehir-hizmetleri-194-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "3 Haziran personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-65311",
-      "title": "19 Nisan 2022 İstanbul Bilişim ve Akıllı Kent Teknolojileri 2 İşçi Alacak",
-      "institution": "19 Nisan",
-      "institutionCode": "19NISAN",
-      "logo": "💻",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 19,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "Sözleşmeli Bilişim Personeli",
-      "cities": [
-        "İstanbul"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/65311/istanbul-bilisim-ve-akilli-kent-teknolojileri-2-isci-alacak.html",
-      "qualificationCodes": [
-        "4531",
-        "4539",
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "19 Nisan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-63464",
       "title": "10 Ocak 2022 İstanbul Personel Yönetim Aş. 79 İşçi Alacak",
       "institution": "10 Ocak",
@@ -4553,55 +4180,14 @@ export const LIVE_POSTINGS_DATA = {
       "description": "2020 Antalya personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-46813",
-      "title": "27 Haziran 2019 Bursa Osmangazi Belediyesi 3 İşçi Alacak",
-      "institution": "27 Haziran",
-      "institutionCode": "27HAZIRAN",
-      "logo": "🏢",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 27,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Bursa"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46813/bursa-osmangazi-belediyesi-3-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "27 Haziran personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-46209",
-      "title": "21 Mayıs 2019 Antalya Kaş Likya Turizm Geçici 76 İşçi Alacak",
-      "institution": "21 Mayıs",
-      "institutionCode": "21MAYS",
+      "id": "memurlar-45764",
+      "title": "23 Nisan 2019 Aydın Koçarlı Menderes Turizm 2 İşçi Alacak",
+      "institution": "23 Nisan",
+      "institutionCode": "23NISAN",
       "logo": "🏛️",
       "tier": "lise",
       "category": "İşçi & Destek Hizmetleri",
-      "quota": 21,
+      "quota": 23,
       "educationLevel": "Lisans",
       "kpssScoreTypes": [
         "KPSS P3"
@@ -4609,14 +4195,14 @@ export const LIVE_POSTINGS_DATA = {
       "minScore": 70,
       "contractType": "4/B Sözleşmeli",
       "cities": [
-        "Antalya"
+        "Aydın"
       ],
       "publishDate": "2026-10-10",
       "deadline": "2026-10-28",
       "dateRangeDisplay": "Ekim 2026 Alımı",
       "sourceId": "memurlar-net",
       "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46209/antalya-kas-likya-turizm-gecici-76-isci-alacak.html",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/45764/aydin-kocarli-menderes-turizm-2-isci-alacak.html",
       "qualificationCodes": [
         "4001"
       ],
@@ -4632,48 +4218,7 @@ export const LIVE_POSTINGS_DATA = {
       "featured": true,
       "isLive": true,
       "verifiedOfficial": true,
-      "description": "21 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
-      "id": "memurlar-46095",
-      "title": "15 Mayıs 2019 Muğla Dal-Bel Günübirlik Turizm Geçici 10 İşçi Alacak",
-      "institution": "15 Mayıs",
-      "institutionCode": "15MAYS",
-      "logo": "🏛️",
-      "tier": "lise",
-      "category": "İşçi & Destek Hizmetleri",
-      "quota": 15,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Muğla"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/46095/mugla-dal-bel-gunubirlik-turizm-gecici-10-isci-alacak.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": true,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "15 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+      "description": "23 Nisan personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-42149",
