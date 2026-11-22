@@ -1,10 +1,10 @@
-// Otomatik oluşturulan canlı veri deposu (Sync: 2026-11-22T02:01:36.216Z)
+// Otomatik oluşturulan canlı veri deposu (Sync: 2026-11-22T12:25:38.171Z)
 export const LIVE_POSTINGS_DATA = {
-  "timestamp": "2026-11-22T02:01:36.198Z",
-  "lastUpdatedFormatted": "22 Kasım 2026 02:01 (Canlı Veri Akışı)",
+  "timestamp": "2026-11-22T12:25:38.156Z",
+  "lastUpdatedFormatted": "22 Kasım 2026 12:25 (Canlı Veri Akışı)",
   "totalCount": 174,
-  "universityCount": 153,
-  "liseCount": 21,
+  "universityCount": 152,
+  "liseCount": 22,
   "sources": {
     "sbb": {
       "name": "T.C. SBB Kamu İlan Portalı",
@@ -2431,47 +2431,6 @@ export const LIVE_POSTINGS_DATA = {
       "description": "Zonguldak Çaycuma personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
-      "id": "memurlar-29967",
-      "title": "15:46 Osmaniye Yağlı Tohumlar Araş. İst. Geçici İşçi Alım İlanı",
-      "institution": "15:46 Osmaniye",
-      "institutionCode": "1546OSMA",
-      "logo": "🏛️",
-      "tier": "university",
-      "category": "İdari & Büro",
-      "quota": 1,
-      "educationLevel": "Lisans",
-      "kpssScoreTypes": [
-        "KPSS P3"
-      ],
-      "minScore": 70,
-      "contractType": "4/B Sözleşmeli",
-      "cities": [
-        "Osmaniye"
-      ],
-      "publishDate": "2026-10-10",
-      "deadline": "2026-10-28",
-      "dateRangeDisplay": "Ekim 2026 Alımı",
-      "sourceId": "memurlar-net",
-      "sourceName": "Memurlar.net İlan",
-      "sourceUrl": "https://ilan.memurlar.net/ilan/29967/osmaniye-yagli-tohumlar-aras-ist-gecici-isci-alim-ilani.html",
-      "qualificationCodes": [
-        "4001"
-      ],
-      "requiredDepartments": [
-        "Lisans Mezuniyeti",
-        "İlgili Bölümler"
-      ],
-      "specialConditions": [
-        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
-        "KPSS asgari taban puanı: 70"
-      ],
-      "status": "Aktif",
-      "featured": false,
-      "isLive": true,
-      "verifiedOfficial": true,
-      "description": "15:46 Osmaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
-    },
-    {
       "id": "memurlar-86858",
       "title": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı 13 Personel Alacak",
       "institution": "Türkiye Turizm",
@@ -3970,6 +3929,47 @@ export const LIVE_POSTINGS_DATA = {
       "isLive": true,
       "verifiedOfficial": true,
       "description": "25 Mayıs personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
+    },
+    {
+      "id": "memurlar-29967",
+      "title": "2014 Osmaniye Yağlı Tohumlar Araş. İst. Geçici İşçi Alım İlanı",
+      "institution": "2014 Osmaniye",
+      "institutionCode": "2014OSMAN",
+      "logo": "🏛️",
+      "tier": "lise",
+      "category": "İşçi & Destek Hizmetleri",
+      "quota": 2014,
+      "educationLevel": "Lisans",
+      "kpssScoreTypes": [
+        "KPSS P3"
+      ],
+      "minScore": 70,
+      "contractType": "4/B Sözleşmeli",
+      "cities": [
+        "Osmaniye"
+      ],
+      "publishDate": "2026-10-10",
+      "deadline": "2026-10-28",
+      "dateRangeDisplay": "Ekim 2026 Alımı",
+      "sourceId": "memurlar-net",
+      "sourceName": "Memurlar.net İlan",
+      "sourceUrl": "https://ilan.memurlar.net/ilan/29967/osmaniye-yagli-tohumlar-aras-ist-gecici-isci-alim-ilani.html",
+      "qualificationCodes": [
+        "4001"
+      ],
+      "requiredDepartments": [
+        "Lisans Mezuniyeti",
+        "İlgili Bölümler"
+      ],
+      "specialConditions": [
+        "İlan metninde yer alan öğrenim ve KPSS şartlarını taşımak",
+        "KPSS asgari taban puanı: 70"
+      ],
+      "status": "Aktif",
+      "featured": true,
+      "isLive": true,
+      "verifiedOfficial": true,
+      "description": "2014 Osmaniye personel alım ilanı Memurlar.net üzerinde yayımlanmıştır."
     },
     {
       "id": "memurlar-50532",
